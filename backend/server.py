@@ -12,7 +12,7 @@ from lime.lime_text import LimeTextExplainer
 import json
 
 
-GEMINI_API_KEY = "AIzaSyDBN4rYQA-T5_-X7JwU0OSJKAg6LPMgvbg"
+GEMINI_API_KEY = ""
 
 # --- Flask App Initialization ---
 app = Flask(__name__)
