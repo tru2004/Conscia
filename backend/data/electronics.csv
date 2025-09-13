@@ -1,0 +1,1201 @@
+product_id,product_name,product_price,reviews,created_by
+EL100000,Electronics And 0,687.65,Satisfied with the purchase.,Stevens Inc
+EL100001,Electronics Like 1,252.02,Fantastic product with ethical sourcing.,Smith-Fisher
+EL100002,Electronics Street 2,85.32,Wouldn’t buy again.,Miller-Jones
+EL100003,Electronics Space 3,796.24,Not worth the price.,Smith-Everett
+EL100004,Electronics Until 4,643.58,Good but overpriced.,Sloan-Nguyen
+EL100005,Electronics Then 5,709.36,Fantastic product with ethical sourcing.,"Krause, Johnston and Campbell"
+EL100006,Electronics Face 6,654.7,Wouldn’t buy again.,Allen LLC
+EL100007,Electronics Brother 7,567.88,Not worth the price.,"Silva, Rodriguez and Duncan"
+EL100008,Electronics Their 8,66.87,Perfect gift option!,"Dunn, Johnson and Travis"
+EL100009,Electronics Employee 9,256.2,Fantastic product with ethical sourcing.,Gordon PLC
+EL100010,Electronics Ago 10,428.37,Wouldn’t buy again.,Fox-Marsh
+EL100011,Electronics Whether 11,458.98,"Excellent product, highly recommend.",Bennett-Dorsey
+EL100012,Electronics Suddenly 12,138.04,Very durable and eco-friendly packaging.,"Mack, Choi and Wolf"
+EL100013,Electronics Like 13,857.52,"Average experience, could be better.",Ward-Shelton
+EL100014,Electronics Form 14,895.87,Perfect gift option!,Thomas-Ford
+EL100015,Electronics Morning 15,814.04,"Average experience, could be better.",Bailey-Miller
+EL100016,Electronics However 16,741.76,"Excellent product, highly recommend.",Mccullough-Brown
+EL100017,Electronics Federal 17,388.52,Not worth the price.,Lloyd Ltd
+EL100018,Electronics Sort 18,623.5,Good but overpriced.,Young-Lang
+EL100019,Electronics Include 19,113.38,Satisfied with the purchase.,"Nelson, Garcia and Curry"
+EL100020,Electronics Natural 20,468.82,Not worth the price.,"Aguilar, Vargas and Miller"
+EL100021,Electronics Song 21,775.19,"Average experience, could be better.",Johnson-Wilcox
+EL100022,Electronics Traditional 22,662.47,Good but overpriced.,Smith-Gutierrez
+EL100023,Electronics Mother 23,84.57,Great quality and fast delivery!,"Ward, Lee and House"
+EL100024,Electronics Traditional 24,630.19,Satisfied with the purchase.,Nixon-Leblanc
+EL100025,Electronics Than 25,748.91,"Average experience, could be better.","Brewer, Lee and Moore"
+EL100026,Electronics Yard 26,995.32,Very durable and eco-friendly packaging.,Murphy-Waters
+EL100027,Electronics Its 27,834.55,Perfect gift option!,Underwood-Fox
+EL100028,Electronics Lead 28,204.26,Good but overpriced.,Friedman-Pena
+EL100029,Electronics Would 29,879.04,Good but overpriced.,Hobbs Ltd
+EL100030,Electronics To 30,787.4,Fantastic product with ethical sourcing.,Goodwin-Gordon
+EL100031,Electronics Later 31,463.01,Perfect gift option!,Lopez PLC
+EL100032,Electronics Reach 32,396.27,Very durable and eco-friendly packaging.,Hodge-Beck
+EL100033,Electronics Live 33,151.68,Fantastic product with ethical sourcing.,Turner-Taylor
+EL100034,Electronics Attack 34,342.32,Fantastic product with ethical sourcing.,"Fisher, Nichols and Martin"
+EL100035,Electronics Remain 35,614.07,Good but overpriced.,Wilson-Santiago
+EL100036,Electronics Game 36,714.52,Fantastic product with ethical sourcing.,Carpenter and Sons
+EL100037,Electronics Organization 37,646.04,"Excellent product, highly recommend.",Roberts PLC
+EL100038,Electronics Plant 38,73.22,Perfect gift option!,Ellis-Martin
+EL100039,Electronics Million 39,12.47,Fantastic product with ethical sourcing.,"Cordova, Holmes and Freeman"
+EL100040,Electronics When 40,825.81,Very durable and eco-friendly packaging.,"Robinson, Avery and Jones"
+EL100041,Electronics Difference 41,202.85,Wouldn’t buy again.,Burton Ltd
+EL100042,Electronics Throw 42,192.06,Wouldn’t buy again.,Watson-Kent
+EL100043,Electronics Garden 43,476.46,Wouldn’t buy again.,Thornton-Paul
+EL100044,Electronics Upon 44,847.61,Perfect gift option!,Ho and Sons
+EL100045,Electronics Spring 45,428.6,Very durable and eco-friendly packaging.,"Thompson, Garcia and Richard"
+EL100046,Electronics Single 46,417.03,Wouldn’t buy again.,Chang-Heath
+EL100047,Electronics Prove 47,752.9,Perfect gift option!,Chung Ltd
+EL100048,Electronics Sign 48,331.5,"Average experience, could be better.",Alvarado-Patterson
+EL100049,Electronics Front 49,859.92,Fantastic product with ethical sourcing.,"Ortega, Gutierrez and Evans"
+EL100050,Electronics Blood 50,879.68,Very durable and eco-friendly packaging.,"Lucas, Lee and Cole"
+EL100051,Electronics Thousand 51,136.79,Great quality and fast delivery!,Powers-Garcia
+EL100052,Electronics System 52,368.47,Fantastic product with ethical sourcing.,"Foster, Juarez and Blackwell"
+EL100053,Electronics Energy 53,840.76,Satisfied with the purchase.,"Mcfarland, Davenport and Liu"
+EL100054,Electronics Walk 54,244.01,Great quality and fast delivery!,Howard-Farrell
+EL100055,Electronics Change 55,72.25,Not worth the price.,"Johnson, Riley and Guerrero"
+EL100056,Electronics Along 56,604.8,"Excellent product, highly recommend.","Johnson, Armstrong and Williams"
+EL100057,Electronics Myself 57,992.71,Very durable and eco-friendly packaging.,Jones-Snyder
+EL100058,Electronics Keep 58,596.77,Good but overpriced.,Gibson Inc
+EL100059,Electronics Read 59,580.36,Wouldn’t buy again.,Coleman Inc
+EL100060,Electronics Third 60,625.5,Fantastic product with ethical sourcing.,"Silva, Watson and Carlson"
+EL100061,Electronics Professional 61,638.73,Fantastic product with ethical sourcing.,Mckay LLC
+EL100062,Electronics Rock 62,490.78,Fantastic product with ethical sourcing.,"Barnes, Mcpherson and Davis"
+EL100063,Electronics Deal 63,147.54,"Excellent product, highly recommend.","Curtis, Hoover and Ward"
+EL100064,Electronics Fast 64,163.23,Great quality and fast delivery!,"Lowe, Lewis and Adams"
+EL100065,Electronics Theory 65,662.74,"Average experience, could be better.","Roberson, Martinez and Stephens"
+EL100066,Electronics Item 66,586.32,Satisfied with the purchase.,"Anderson, Jones and Cohen"
+EL100067,Electronics Push 67,571.57,"Average experience, could be better.",Miller-Johnson
+EL100068,Electronics Brother 68,202.13,"Excellent product, highly recommend.",Frederick-Henderson
+EL100069,Electronics Art 69,923.6,Not worth the price.,Shaw-Castro
+EL100070,Electronics Find 70,199.38,Not worth the price.,"Rodriguez, Nguyen and Pittman"
+EL100071,Electronics Ok 71,907.32,Wouldn’t buy again.,Smith-Mcmillan
+EL100072,Electronics Size 72,425.54,Great quality and fast delivery!,Rich LLC
+EL100073,Electronics Education 73,35.53,"Average experience, could be better.","Nguyen, Cowan and Austin"
+EL100074,Electronics Actually 74,914.63,Good but overpriced.,Brown-Morris
+EL100075,Electronics Necessary 75,275.73,Good but overpriced.,Palmer Ltd
+EL100076,Electronics Middle 76,306.66,Wouldn’t buy again.,Greene-Huffman
+EL100077,Electronics Notice 77,928.79,Fantastic product with ethical sourcing.,Bush PLC
+EL100078,Electronics Mission 78,128.32,"Excellent product, highly recommend.",Kennedy and Sons
+EL100079,Electronics Market 79,201.19,Not worth the price.,Garrett LLC
+EL100080,Electronics Less 80,233.67,Perfect gift option!,Ward PLC
+EL100081,Electronics Organization 81,585.36,Fantastic product with ethical sourcing.,West-Garza
+EL100082,Electronics What 82,739.28,"Average experience, could be better.",Lawrence-Wheeler
+EL100083,Electronics Prove 83,93.35,Satisfied with the purchase.,Garcia PLC
+EL100084,Electronics Positive 84,309.94,Satisfied with the purchase.,"Chavez, Hill and Davis"
+EL100085,Electronics Lead 85,324.68,Perfect gift option!,James Ltd
+EL100086,Electronics Hotel 86,629.64,Great quality and fast delivery!,Bell PLC
+EL100087,Electronics Perhaps 87,992.01,Perfect gift option!,Ibarra-Gray
+EL100088,Electronics Music 88,52.76,"Average experience, could be better.","Arnold, Montgomery and Willis"
+EL100089,Electronics Strong 89,128.77,Fantastic product with ethical sourcing.,Zuniga Group
+EL100090,Electronics Western 90,51.81,Wouldn’t buy again.,Yates and Sons
+EL100091,Electronics Right 91,170.7,Satisfied with the purchase.,Perez-Huerta
+EL100092,Electronics Expert 92,607.7,Perfect gift option!,Gaines Ltd
+EL100093,Electronics What 93,202.26,"Average experience, could be better.",Lutz-Hicks
+EL100094,Electronics Interview 94,418.93,Very durable and eco-friendly packaging.,Hale-Davis
+EL100095,Electronics Than 95,913.47,Fantastic product with ethical sourcing.,Smith-Paul
+EL100096,Electronics Among 96,897.55,Great quality and fast delivery!,Coleman PLC
+EL100097,Electronics Leg 97,427.58,"Excellent product, highly recommend.","Brown, Gonzalez and Martinez"
+EL100098,Electronics Find 98,231.22,Fantastic product with ethical sourcing.,Coleman LLC
+EL100099,Electronics Yeah 99,308.3,Very durable and eco-friendly packaging.,"Beasley, Martinez and Schwartz"
+EL100100,Electronics Hour 100,953.94,"Excellent product, highly recommend.","Jones, Black and Moran"
+EL100101,Electronics Medical 101,364.06,Not worth the price.,Rogers and Sons
+EL100102,Electronics Field 102,359.08,Good but overpriced.,"Edwards, Bowman and Gilbert"
+EL100103,Electronics Strong 103,769.49,Great quality and fast delivery!,"Bush, Martinez and Rivera"
+EL100104,Electronics Up 104,24.78,Fantastic product with ethical sourcing.,Archer PLC
+EL100105,Electronics When 105,224.97,"Average experience, could be better.","Vega, Ford and Perez"
+EL100106,Electronics Different 106,472.42,Satisfied with the purchase.,Wood and Sons
+EL100107,Electronics Half 107,359.67,Good but overpriced.,Wong PLC
+EL100108,Electronics Become 108,115.93,Satisfied with the purchase.,Johns-Burns
+EL100109,Electronics Very 109,443.41,"Average experience, could be better.","Massey, Roth and Caldwell"
+EL100110,Electronics Leader 110,305.27,Wouldn’t buy again.,Stewart and Sons
+EL100111,Electronics Tell 111,393.6,"Average experience, could be better.",Baird-Hughes
+EL100112,Electronics Whole 112,341.44,Very durable and eco-friendly packaging.,Wilson PLC
+EL100113,Electronics Spend 113,526.09,Fantastic product with ethical sourcing.,Williams-Hanson
+EL100114,Electronics Director 114,60.78,"Average experience, could be better.",Gilbert Group
+EL100115,Electronics Open 115,389.46,Perfect gift option!,Wilson-Bowen
+EL100116,Electronics Born 116,291.36,Not worth the price.,"Bowman, Nolan and Hunt"
+EL100117,Electronics Push 117,587.85,Satisfied with the purchase.,Torres Ltd
+EL100118,Electronics Require 118,197.24,Fantastic product with ethical sourcing.,Avery-Trujillo
+EL100119,Electronics Continue 119,143.5,Not worth the price.,"Woods, Nelson and Williams"
+EL100120,Electronics Among 120,621.16,"Average experience, could be better.",Lowe and Sons
+EL100121,Electronics Expect 121,331.45,Not worth the price.,"James, Wright and Brennan"
+EL100122,Electronics Could 122,804.88,Not worth the price.,Mcdonald and Sons
+EL100123,Electronics Enough 123,410.35,Wouldn’t buy again.,Smith LLC
+EL100124,Electronics Into 124,462.37,Good but overpriced.,Jones Group
+EL100125,Electronics Science 125,345.21,Wouldn’t buy again.,Wolfe-Coleman
+EL100126,Electronics Never 126,857.11,Not worth the price.,"Collins, Carpenter and Odonnell"
+EL100127,Electronics Like 127,367.75,Satisfied with the purchase.,"Thompson, Patel and Lee"
+EL100128,Electronics Skin 128,209.38,Wouldn’t buy again.,Weiss LLC
+EL100129,Electronics Drop 129,118.7,Great quality and fast delivery!,Baxter Ltd
+EL100130,Electronics It 130,827.68,Good but overpriced.,Thomas-Mitchell
+EL100131,Electronics City 131,954.92,Satisfied with the purchase.,Trevino Ltd
+EL100132,Electronics True 132,163.03,Very durable and eco-friendly packaging.,Ball Group
+EL100133,Electronics Type 133,882.19,"Average experience, could be better.",Miller Group
+EL100134,Electronics News 134,704.76,Very durable and eco-friendly packaging.,Riggs Inc
+EL100135,Electronics Behavior 135,71.03,"Excellent product, highly recommend.","Nichols, Perez and Rodriguez"
+EL100136,Electronics Bank 136,969.68,"Excellent product, highly recommend.",Brown-Simmons
+EL100137,Electronics Result 137,43.17,Not worth the price.,"Hawkins, Brown and Johnson"
+EL100138,Electronics Consumer 138,981.04,Great quality and fast delivery!,"Green, Yates and Terry"
+EL100139,Electronics Scientist 139,806.29,Wouldn’t buy again.,Hughes Ltd
+EL100140,Electronics Defense 140,414.14,Not worth the price.,Hensley Group
+EL100141,Electronics Heavy 141,513.34,Good but overpriced.,"Shea, Wyatt and Delgado"
+EL100142,Electronics Million 142,99.19,Perfect gift option!,"Hodges, Macias and Murphy"
+EL100143,Electronics Figure 143,733.64,"Excellent product, highly recommend.",Glass-Rodriguez
+EL100144,Electronics Ability 144,288.53,Perfect gift option!,"Richardson, Hinton and Wiley"
+EL100145,Electronics Treat 145,746.52,"Average experience, could be better.","Hernandez, Cox and Ballard"
+EL100146,Electronics Remember 146,691.09,Not worth the price.,Garcia-Williams
+EL100147,Electronics Bit 147,15.35,"Excellent product, highly recommend.","Vance, Powell and Stone"
+EL100148,Electronics Mean 148,720.0,Very durable and eco-friendly packaging.,"Freeman, Molina and Gomez"
+EL100149,Electronics Control 149,143.87,"Excellent product, highly recommend.",Atkinson Group
+EL100150,Electronics Fact 150,848.66,Satisfied with the purchase.,Donovan-Jensen
+EL100151,Electronics Gun 151,733.66,Not worth the price.,Henry-Atkins
+EL100152,Electronics Behind 152,900.62,"Excellent product, highly recommend.","James, White and Owen"
+EL100153,Electronics Country 153,467.9,Very durable and eco-friendly packaging.,Collins-Gomez
+EL100154,Electronics Thought 154,614.33,"Excellent product, highly recommend.","Lewis, Smith and Stewart"
+EL100155,Electronics Image 155,358.95,Good but overpriced.,Mann-Rodriguez
+EL100156,Electronics Reach 156,813.98,Fantastic product with ethical sourcing.,Santos-Phillips
+EL100157,Electronics Enter 157,833.0,Fantastic product with ethical sourcing.,Curtis-Johnston
+EL100158,Electronics Short 158,72.46,Fantastic product with ethical sourcing.,"Rich, Garcia and Gomez"
+EL100159,Electronics Officer 159,255.5,"Average experience, could be better.",Morris-Lucas
+EL100160,Electronics Reflect 160,96.49,Very durable and eco-friendly packaging.,Chung PLC
+EL100161,Electronics Someone 161,800.16,"Average experience, could be better.",Barnes Ltd
+EL100162,Electronics Couple 162,903.85,Good but overpriced.,"Schneider, Russell and Adams"
+EL100163,Electronics Forget 163,155.48,Not worth the price.,Morton and Sons
+EL100164,Electronics Become 164,552.8,Very durable and eco-friendly packaging.,"Evans, Johnson and Williams"
+EL100165,Electronics Give 165,27.98,"Average experience, could be better.",Perry-Shelton
+EL100166,Electronics Event 166,165.01,Perfect gift option!,Cross Group
+EL100167,Electronics Great 167,41.61,Fantastic product with ethical sourcing.,"Avila, Lin and Johnson"
+EL100168,Electronics Camera 168,197.55,Not worth the price.,Mcdonald Group
+EL100169,Electronics Anything 169,386.86,Very durable and eco-friendly packaging.,Gonzalez-Allen
+EL100170,Electronics None 170,60.83,Not worth the price.,Ruiz LLC
+EL100171,Electronics Option 171,279.78,"Excellent product, highly recommend.","Macdonald, Moss and Burns"
+EL100172,Electronics Discussion 172,833.1,"Excellent product, highly recommend.",Preston PLC
+EL100173,Electronics Space 173,141.15,Good but overpriced.,Manning PLC
+EL100174,Electronics Much 174,245.98,"Excellent product, highly recommend.",Wilkins-Howard
+EL100175,Electronics College 175,843.6,Perfect gift option!,"Shelton, Thomas and Rowe"
+EL100176,Electronics Floor 176,337.87,Good but overpriced.,"Miller, Walsh and Smith"
+EL100177,Electronics Figure 177,685.39,Great quality and fast delivery!,"Peters, Romero and Herrera"
+EL100178,Electronics Nearly 178,595.94,"Excellent product, highly recommend.",Knight-Walker
+EL100179,Electronics Billion 179,374.19,Satisfied with the purchase.,Sheppard Inc
+EL100180,Electronics War 180,168.43,Wouldn’t buy again.,Keller-Roman
+EL100181,Electronics Reveal 181,896.19,Not worth the price.,"Lee, Kirby and Taylor"
+EL100182,Electronics Military 182,317.83,"Excellent product, highly recommend.",Phillips PLC
+EL100183,Electronics Too 183,155.35,Very durable and eco-friendly packaging.,"Carr, Allen and Riley"
+EL100184,Electronics Ten 184,250.43,Good but overpriced.,Ayers-Jones
+EL100185,Electronics Sea 185,904.23,Great quality and fast delivery!,"Pierce, Johnston and Reed"
+EL100186,Electronics Now 186,994.98,Satisfied with the purchase.,Shaw-Nelson
+EL100187,Electronics Every 187,9.97,"Average experience, could be better.","Ramsey, Carr and Thompson"
+EL100188,Electronics Western 188,293.47,Great quality and fast delivery!,"Campbell, Smith and Henry"
+EL100189,Electronics See 189,542.01,Good but overpriced.,"Jimenez, West and Fox"
+EL100190,Electronics Collection 190,218.06,Not worth the price.,Simmons PLC
+EL100191,Electronics Work 191,744.19,Great quality and fast delivery!,"Bolton, Romero and Hansen"
+EL100192,Electronics Style 192,311.89,Not worth the price.,Wright-Stewart
+EL100193,Electronics Staff 193,825.84,Fantastic product with ethical sourcing.,Mcdonald-Warren
+EL100194,Electronics Class 194,389.65,Fantastic product with ethical sourcing.,"Campbell, Morgan and Jones"
+EL100195,Electronics Prove 195,201.87,Great quality and fast delivery!,"Sanders, Reyes and Patterson"
+EL100196,Electronics Affect 196,671.1,Good but overpriced.,"Fisher, Barnett and West"
+EL100197,Electronics Him 197,162.55,Fantastic product with ethical sourcing.,"Simon, Carroll and Moore"
+EL100198,Electronics Guess 198,825.63,Perfect gift option!,Holland-Lewis
+EL100199,Electronics Between 199,508.73,Good but overpriced.,"Peterson, Mendez and Harmon"
+EL100200,Electronics Often 200,547.18,"Average experience, could be better.",Russell LLC
+EL100201,Electronics Player 201,268.57,Great quality and fast delivery!,Dunn LLC
+EL100202,Electronics Road 202,850.47,Great quality and fast delivery!,"Powell, Wall and Willis"
+EL100203,Electronics Lose 203,145.11,Good but overpriced.,Hill-Gonzales
+EL100204,Electronics Everything 204,157.17,Good but overpriced.,Garrett-Hanna
+EL100205,Electronics Allow 205,567.39,Satisfied with the purchase.,Peters and Sons
+EL100206,Electronics Executive 206,904.55,Good but overpriced.,"Marshall, Bright and Wright"
+EL100207,Electronics Agency 207,437.62,Perfect gift option!,Cook LLC
+EL100208,Electronics Various 208,876.63,Wouldn’t buy again.,"Miller, Aguilar and Stout"
+EL100209,Electronics Tell 209,383.9,Great quality and fast delivery!,Hall PLC
+EL100210,Electronics Personal 210,365.3,Fantastic product with ethical sourcing.,Brown Ltd
+EL100211,Electronics Realize 211,92.08,"Excellent product, highly recommend.",Martin PLC
+EL100212,Electronics Memory 212,367.31,Satisfied with the purchase.,"Branch, Vaughn and Adams"
+EL100213,Electronics Meet 213,188.42,Very durable and eco-friendly packaging.,Rowland-Lee
+EL100214,Electronics Today 214,33.89,Satisfied with the purchase.,Anderson-Smith
+EL100215,Electronics Before 215,987.75,Great quality and fast delivery!,Mcknight-Alexander
+EL100216,Electronics Value 216,349.44,"Average experience, could be better.","Cruz, Sullivan and Thompson"
+EL100217,Electronics Audience 217,183.65,Satisfied with the purchase.,Benson LLC
+EL100218,Electronics Case 218,890.69,Wouldn’t buy again.,Carey-Brown
+EL100219,Electronics Pretty 219,603.54,Very durable and eco-friendly packaging.,"Odom, French and Porter"
+EL100220,Electronics Bring 220,11.14,Satisfied with the purchase.,"Mcclure, Guzman and Johnson"
+EL100221,Electronics Market 221,501.21,Fantastic product with ethical sourcing.,"Thomas, Barton and Williams"
+EL100222,Electronics Protect 222,312.13,Satisfied with the purchase.,Martinez-Ford
+EL100223,Electronics Along 223,682.43,"Average experience, could be better.",Nguyen LLC
+EL100224,Electronics South 224,47.64,"Average experience, could be better.",Wheeler and Sons
+EL100225,Electronics Those 225,413.02,Great quality and fast delivery!,Hughes Ltd
+EL100226,Electronics Best 226,926.92,Very durable and eco-friendly packaging.,"Ayers, Garcia and Young"
+EL100227,Electronics Model 227,587.71,Fantastic product with ethical sourcing.,Garcia Group
+EL100228,Electronics Everybody 228,675.11,Wouldn’t buy again.,Smith PLC
+EL100229,Electronics Performance 229,559.81,"Average experience, could be better.",Brown LLC
+EL100230,Electronics Dream 230,242.3,Very durable and eco-friendly packaging.,"Silva, Butler and Morris"
+EL100231,Electronics Reach 231,54.56,Perfect gift option!,Walls Inc
+EL100232,Electronics Child 232,599.33,"Excellent product, highly recommend.","Gray, Foster and Herrera"
+EL100233,Electronics Whole 233,492.14,Not worth the price.,Conley PLC
+EL100234,Electronics Consider 234,914.15,Great quality and fast delivery!,Davis-Johnson
+EL100235,Electronics Push 235,858.97,Wouldn’t buy again.,Kelley Ltd
+EL100236,Electronics Crime 236,652.91,Fantastic product with ethical sourcing.,"Reed, Jimenez and Clayton"
+EL100237,Electronics Fear 237,404.3,Very durable and eco-friendly packaging.,Valdez Ltd
+EL100238,Electronics Represent 238,315.61,"Average experience, could be better.",Rivera PLC
+EL100239,Electronics Phone 239,799.85,Not worth the price.,Jones-Boyd
+EL100240,Electronics Day 240,292.32,Satisfied with the purchase.,"Davis, Johnson and Hicks"
+EL100241,Electronics Side 241,98.23,Fantastic product with ethical sourcing.,"Obrien, Johnson and Thornton"
+EL100242,Electronics Personal 242,562.5,Wouldn’t buy again.,"Carter, Clay and Johnson"
+EL100243,Electronics See 243,216.3,Great quality and fast delivery!,"Harris, Morris and King"
+EL100244,Electronics Pick 244,500.87,Great quality and fast delivery!,Bradley Inc
+EL100245,Electronics Game 245,232.61,Satisfied with the purchase.,Salazar Ltd
+EL100246,Electronics Somebody 246,423.15,Not worth the price.,"Goodman, Harris and Hunt"
+EL100247,Electronics Various 247,446.9,Good but overpriced.,Blair-Hines
+EL100248,Electronics Ask 248,353.4,"Average experience, could be better.",Miller-Mcdonald
+EL100249,Electronics Bad 249,263.0,Fantastic product with ethical sourcing.,"Hayes, Lowe and Tyler"
+EL100250,Electronics To 250,160.83,Satisfied with the purchase.,Singh-Murphy
+EL100251,Electronics Expert 251,819.67,Fantastic product with ethical sourcing.,Smith Group
+EL100252,Electronics Through 252,724.35,Great quality and fast delivery!,Odom Inc
+EL100253,Electronics Serious 253,382.7,Wouldn’t buy again.,"Cooke, Sullivan and Erickson"
+EL100254,Electronics Then 254,964.7,Fantastic product with ethical sourcing.,Vincent Inc
+EL100255,Electronics Western 255,132.29,Great quality and fast delivery!,Banks and Sons
+EL100256,Electronics Step 256,308.85,"Excellent product, highly recommend.","Mata, Brown and Herrera"
+EL100257,Electronics Stage 257,844.65,Good but overpriced.,Mann-Young
+EL100258,Electronics Court 258,342.7,Not worth the price.,Brown-Fitzgerald
+EL100259,Electronics Home 259,779.82,Wouldn’t buy again.,Anderson PLC
+EL100260,Electronics Suggest 260,345.72,Great quality and fast delivery!,"Garcia, Lee and Le"
+EL100261,Electronics Card 261,488.96,"Excellent product, highly recommend.",James Ltd
+EL100262,Electronics New 262,265.78,Fantastic product with ethical sourcing.,King-Barry
+EL100263,Electronics Trade 263,649.24,Perfect gift option!,Wilcox LLC
+EL100264,Electronics Have 264,958.73,"Excellent product, highly recommend.",Clark Group
+EL100265,Electronics Light 265,600.83,Not worth the price.,"Patel, Gibson and Shaw"
+EL100266,Electronics Every 266,925.29,Satisfied with the purchase.,Alexander-Best
+EL100267,Electronics Off 267,202.87,Fantastic product with ethical sourcing.,Brown-Clay
+EL100268,Electronics Certain 268,719.36,Not worth the price.,Potts LLC
+EL100269,Electronics How 269,587.43,Very durable and eco-friendly packaging.,Smith-May
+EL100270,Electronics Discussion 270,13.33,Fantastic product with ethical sourcing.,Morris Group
+EL100271,Electronics Story 271,697.38,"Excellent product, highly recommend.",Morgan-Gray
+EL100272,Electronics Page 272,713.28,Fantastic product with ethical sourcing.,"Jones, Houston and Kaufman"
+EL100273,Electronics Continue 273,643.41,Great quality and fast delivery!,"Jones, Rush and Andrews"
+EL100274,Electronics Idea 274,5.91,Satisfied with the purchase.,Conner-Strong
+EL100275,Electronics Decision 275,76.4,Very durable and eco-friendly packaging.,"Tucker, Navarro and Williams"
+EL100276,Electronics Subject 276,522.34,Good but overpriced.,Torres Inc
+EL100277,Electronics Window 277,459.66,Very durable and eco-friendly packaging.,"Lewis, Brock and Wiggins"
+EL100278,Electronics Fill 278,728.77,Great quality and fast delivery!,Reynolds LLC
+EL100279,Electronics Rule 279,955.06,Good but overpriced.,Ramirez-Gibson
+EL100280,Electronics Table 280,941.82,Very durable and eco-friendly packaging.,"Simpson, Powell and Scott"
+EL100281,Electronics Want 281,231.07,"Excellent product, highly recommend.",Cunningham Inc
+EL100282,Electronics Economic 282,730.87,Not worth the price.,Harrison-Singh
+EL100283,Electronics Employee 283,512.4,Good but overpriced.,Drake PLC
+EL100284,Electronics Agree 284,343.93,Perfect gift option!,Kim-Lyons
+EL100285,Electronics Different 285,94.11,Good but overpriced.,Downs-Foster
+EL100286,Electronics Exist 286,288.01,Good but overpriced.,Irwin Inc
+EL100287,Electronics Party 287,887.83,Not worth the price.,"Hernandez, Escobar and May"
+EL100288,Electronics Hope 288,128.0,Not worth the price.,"Leon, Bond and Roberts"
+EL100289,Electronics Later 289,357.77,Great quality and fast delivery!,Guerrero-Frederick
+EL100290,Electronics Add 290,604.17,Good but overpriced.,Chan Inc
+EL100291,Electronics Attention 291,110.66,"Excellent product, highly recommend.",Johnston Inc
+EL100292,Electronics Wish 292,335.39,"Excellent product, highly recommend.","Morrison, Lamb and Villanueva"
+EL100293,Electronics Hard 293,669.13,Great quality and fast delivery!,Carson-Wells
+EL100294,Electronics See 294,153.05,Satisfied with the purchase.,Gilbert and Sons
+EL100295,Electronics People 295,208.05,Fantastic product with ethical sourcing.,"Hernandez, Rogers and Sellers"
+EL100296,Electronics After 296,596.58,Wouldn’t buy again.,Clark Inc
+EL100297,Electronics Central 297,371.42,Satisfied with the purchase.,Torres-Pearson
+EL100298,Electronics Manager 298,980.03,Great quality and fast delivery!,Carter PLC
+EL100299,Electronics Stage 299,927.71,Very durable and eco-friendly packaging.,"Yu, Weber and Martin"
+EL100300,Electronics Name 300,656.34,Fantastic product with ethical sourcing.,"Ramirez, Porter and Lyons"
+EL100301,Electronics Thousand 301,797.05,Great quality and fast delivery!,Walker LLC
+EL100302,Electronics Small 302,254.35,"Excellent product, highly recommend.",Hall-Williamson
+EL100303,Electronics Peace 303,579.8,Very durable and eco-friendly packaging.,Calhoun-Brown
+EL100304,Electronics Across 304,404.84,Wouldn’t buy again.,"Henry, Nelson and Esparza"
+EL100305,Electronics List 305,496.95,Great quality and fast delivery!,"Massey, Burgess and Fox"
+EL100306,Electronics Until 306,888.59,Great quality and fast delivery!,Moore-Jones
+EL100307,Electronics Mr 307,457.96,Great quality and fast delivery!,Maddox Ltd
+EL100308,Electronics Nor 308,53.8,"Average experience, could be better.",Mathis PLC
+EL100309,Electronics Fight 309,651.42,Satisfied with the purchase.,"Cooley, Garrison and Gray"
+EL100310,Electronics Better 310,44.46,"Excellent product, highly recommend.",Green and Sons
+EL100311,Electronics Of 311,884.74,Not worth the price.,Waters Inc
+EL100312,Electronics Exactly 312,821.94,Not worth the price.,"Santos, Vasquez and Skinner"
+EL100313,Electronics Art 313,265.47,Satisfied with the purchase.,"Johnston, Turner and Long"
+EL100314,Electronics Page 314,480.13,"Excellent product, highly recommend.",Rosario-Lewis
+EL100315,Electronics Kid 315,68.72,Not worth the price.,"Ball, Orozco and Marshall"
+EL100316,Electronics Across 316,73.4,Great quality and fast delivery!,Valdez-Chavez
+EL100317,Electronics Use 317,6.21,Satisfied with the purchase.,Todd PLC
+EL100318,Electronics Rather 318,337.79,Great quality and fast delivery!,Fitzgerald PLC
+EL100319,Electronics They 319,197.84,Great quality and fast delivery!,Singh-Smith
+EL100320,Electronics Short 320,883.79,Wouldn’t buy again.,Fleming-Chen
+EL100321,Electronics Artist 321,161.89,Very durable and eco-friendly packaging.,"Henson, Sandoval and Rosario"
+EL100322,Electronics Budget 322,299.96,"Excellent product, highly recommend.",Cox LLC
+EL100323,Electronics Offer 323,514.54,"Average experience, could be better.","Villarreal, Carson and Peters"
+EL100324,Electronics Item 324,341.25,Fantastic product with ethical sourcing.,Adams Group
+EL100325,Electronics Movement 325,140.18,Satisfied with the purchase.,Mcdonald-Rios
+EL100326,Electronics Father 326,994.11,Perfect gift option!,Wright LLC
+EL100327,Electronics Education 327,782.69,Very durable and eco-friendly packaging.,Gonzalez Group
+EL100328,Electronics See 328,817.75,Not worth the price.,"Taylor, Heath and Best"
+EL100329,Electronics Weight 329,32.58,Very durable and eco-friendly packaging.,"Davis, Conner and Haney"
+EL100330,Electronics Impact 330,815.27,Great quality and fast delivery!,"Burns, Mendoza and Prince"
+EL100331,Electronics Job 331,79.12,Great quality and fast delivery!,Garrett LLC
+EL100332,Electronics Back 332,74.12,Perfect gift option!,Gilbert-Ortiz
+EL100333,Electronics Produce 333,906.87,Perfect gift option!,"Morris, Ortiz and Smith"
+EL100334,Electronics Whom 334,158.82,"Average experience, could be better.",Harrison-Romero
+EL100335,Electronics Specific 335,622.72,Great quality and fast delivery!,Vincent-Powers
+EL100336,Electronics Mr 336,650.4,Fantastic product with ethical sourcing.,Wells LLC
+EL100337,Electronics Score 337,53.36,"Excellent product, highly recommend.","Thompson, Green and Smith"
+EL100338,Electronics Black 338,256.07,Satisfied with the purchase.,Arias and Sons
+EL100339,Electronics Hospital 339,951.43,Satisfied with the purchase.,Lee-Barry
+EL100340,Electronics Away 340,407.15,Satisfied with the purchase.,Vasquez-Wilson
+EL100341,Electronics Air 341,563.34,Perfect gift option!,"White, Montes and Powell"
+EL100342,Electronics Candidate 342,894.05,Great quality and fast delivery!,Travis Group
+EL100343,Electronics Moment 343,952.12,Wouldn’t buy again.,Cook-Jacobs
+EL100344,Electronics Natural 344,93.68,Very durable and eco-friendly packaging.,"Brown, Wright and Marshall"
+EL100345,Electronics Government 345,731.57,Perfect gift option!,Daniels and Sons
+EL100346,Electronics Cup 346,86.88,Fantastic product with ethical sourcing.,Collins PLC
+EL100347,Electronics Among 347,927.65,Wouldn’t buy again.,"Jacobs, Willis and Perez"
+EL100348,Electronics Lawyer 348,884.64,"Excellent product, highly recommend.",Hall-Gardner
+EL100349,Electronics Daughter 349,644.46,Satisfied with the purchase.,"Ramos, Evans and Oconnor"
+EL100350,Electronics Perform 350,235.15,"Average experience, could be better.",Anderson Inc
+EL100351,Electronics This 351,947.56,Fantastic product with ethical sourcing.,"Jones, Castillo and Gray"
+EL100352,Electronics Here 352,762.52,Wouldn’t buy again.,Mosley-Ramirez
+EL100353,Electronics Radio 353,434.77,"Average experience, could be better.",Mcdowell-Page
+EL100354,Electronics Listen 354,489.22,Fantastic product with ethical sourcing.,Lin-Arnold
+EL100355,Electronics Meet 355,931.96,Satisfied with the purchase.,"Campbell, Calhoun and Lamb"
+EL100356,Electronics Carry 356,32.2,Fantastic product with ethical sourcing.,"Hansen, Lopez and Gomez"
+EL100357,Electronics Record 357,752.59,Satisfied with the purchase.,Ramirez-Stewart
+EL100358,Electronics Seem 358,438.32,Good but overpriced.,"Blackburn, Guzman and Peterson"
+EL100359,Electronics Walk 359,870.22,Wouldn’t buy again.,Casey-Aguirre
+EL100360,Electronics Sport 360,243.78,"Average experience, could be better.","Weber, Singh and Barnes"
+EL100361,Electronics Technology 361,578.44,Satisfied with the purchase.,Chavez-Fischer
+EL100362,Electronics Give 362,253.73,Wouldn’t buy again.,"Henderson, Rowe and Cisneros"
+EL100363,Electronics Character 363,518.86,Perfect gift option!,"Middleton, Adams and Russell"
+EL100364,Electronics Season 364,311.67,Great quality and fast delivery!,"Reyes, Brooks and Payne"
+EL100365,Electronics In 365,486.52,Satisfied with the purchase.,Neal-Smith
+EL100366,Electronics Adult 366,930.12,"Excellent product, highly recommend.",Thomas Ltd
+EL100367,Electronics Action 367,974.15,Great quality and fast delivery!,"Smith, Adams and Mills"
+EL100368,Electronics Part 368,192.87,Satisfied with the purchase.,"Chavez, Davis and Murphy"
+EL100369,Electronics Far 369,524.71,"Excellent product, highly recommend.",Joyce Ltd
+EL100370,Electronics Degree 370,520.36,"Average experience, could be better.",Alvarez-Estrada
+EL100371,Electronics Course 371,322.38,Very durable and eco-friendly packaging.,Johnson-Williamson
+EL100372,Electronics Everyone 372,564.43,Great quality and fast delivery!,Brooks PLC
+EL100373,Electronics Current 373,481.32,Very durable and eco-friendly packaging.,"Robinson, Martinez and Thompson"
+EL100374,Electronics Executive 374,885.42,Perfect gift option!,Francis LLC
+EL100375,Electronics Level 375,985.19,Not worth the price.,Hayden-Gonzalez
+EL100376,Electronics Their 376,369.38,Not worth the price.,Hayes Inc
+EL100377,Electronics Collection 377,704.26,Very durable and eco-friendly packaging.,"Ramsey, Williamson and Rodriguez"
+EL100378,Electronics Body 378,564.67,Good but overpriced.,"Watson, Kennedy and Jones"
+EL100379,Electronics Job 379,778.17,Good but overpriced.,Lee-Barron
+EL100380,Electronics Ahead 380,758.65,Wouldn’t buy again.,Morgan-Hensley
+EL100381,Electronics Shoulder 381,487.61,Not worth the price.,Johnson-Donovan
+EL100382,Electronics Beat 382,573.06,Good but overpriced.,Rogers-Mcguire
+EL100383,Electronics So 383,390.65,Satisfied with the purchase.,Williams and Sons
+EL100384,Electronics Authority 384,313.21,Fantastic product with ethical sourcing.,Bell Group
+EL100385,Electronics Manage 385,165.89,Very durable and eco-friendly packaging.,Myers-Ramsey
+EL100386,Electronics Benefit 386,324.5,Perfect gift option!,"Wells, Carter and Sosa"
+EL100387,Electronics Century 387,918.06,"Excellent product, highly recommend.","Nguyen, Miller and Evans"
+EL100388,Electronics Air 388,430.25,"Excellent product, highly recommend.","Chaney, Hale and Quinn"
+EL100389,Electronics Color 389,366.45,"Average experience, could be better.",Hoover and Sons
+EL100390,Electronics Employee 390,149.17,"Excellent product, highly recommend.","Jacobs, Arias and Vaughn"
+EL100391,Electronics Successful 391,407.44,"Average experience, could be better.",Sanders-Costa
+EL100392,Electronics Room 392,936.8,Very durable and eco-friendly packaging.,Richards-Taylor
+EL100393,Electronics Set 393,266.8,Fantastic product with ethical sourcing.,"Johnson, Mullen and Davis"
+EL100394,Electronics Office 394,146.81,Wouldn’t buy again.,"Kennedy, Vincent and Rocha"
+EL100395,Electronics East 395,255.97,"Excellent product, highly recommend.",Jones-Booth
+EL100396,Electronics Media 396,77.32,"Excellent product, highly recommend.",Whitaker-Adams
+EL100397,Electronics Toward 397,359.34,"Average experience, could be better.","Smith, Hester and Mccall"
+EL100398,Electronics Of 398,965.81,"Excellent product, highly recommend.",Roy-Rogers
+EL100399,Electronics Cup 399,450.46,Not worth the price.,Schmitt and Sons
+EL100400,Electronics Serve 400,89.55,Not worth the price.,Bishop Group
+EL100401,Electronics Section 401,66.72,Great quality and fast delivery!,Powers Ltd
+EL100402,Electronics Stay 402,791.02,Wouldn’t buy again.,Medina-Horton
+EL100403,Electronics Mrs 403,49.56,Satisfied with the purchase.,"Owens, Collins and Rivera"
+EL100404,Electronics Box 404,191.67,Great quality and fast delivery!,Johnson Group
+EL100405,Electronics Nothing 405,585.27,"Average experience, could be better.",Escobar LLC
+EL100406,Electronics Save 406,640.08,Wouldn’t buy again.,Riggs-Guerra
+EL100407,Electronics Concern 407,327.42,"Average experience, could be better.",Hayes Group
+EL100408,Electronics Fast 408,494.84,Perfect gift option!,"Vaughan, Jones and Murray"
+EL100409,Electronics Others 409,206.03,Perfect gift option!,Thompson LLC
+EL100410,Electronics Beautiful 410,38.21,Fantastic product with ethical sourcing.,Jones-Moreno
+EL100411,Electronics Character 411,413.2,Great quality and fast delivery!,Hill-Livingston
+EL100412,Electronics Everything 412,960.28,Fantastic product with ethical sourcing.,Ware-Juarez
+EL100413,Electronics Fight 413,939.95,Fantastic product with ethical sourcing.,Nguyen-Brady
+EL100414,Electronics Quickly 414,425.72,Not worth the price.,Andrews Group
+EL100415,Electronics Drop 415,324.88,"Average experience, could be better.","Davidson, Rice and Stewart"
+EL100416,Electronics Say 416,291.96,Satisfied with the purchase.,Davies and Sons
+EL100417,Electronics Push 417,79.95,Perfect gift option!,Blair-Small
+EL100418,Electronics Organization 418,915.85,"Excellent product, highly recommend.",Gilbert PLC
+EL100419,Electronics Interesting 419,181.92,Not worth the price.,"Kennedy, Perry and Smith"
+EL100420,Electronics Miss 420,748.62,Fantastic product with ethical sourcing.,Ramirez-Flowers
+EL100421,Electronics Ask 421,95.36,Wouldn’t buy again.,"Watts, Malone and Williams"
+EL100422,Electronics Challenge 422,893.79,Satisfied with the purchase.,"Salazar, Johnson and Hill"
+EL100423,Electronics Pick 423,942.7,Very durable and eco-friendly packaging.,Burke-White
+EL100424,Electronics There 424,726.39,Not worth the price.,"Wolf, Gonzales and Richmond"
+EL100425,Electronics Leg 425,409.31,Wouldn’t buy again.,Brown-Carrillo
+EL100426,Electronics Despite 426,339.42,Fantastic product with ethical sourcing.,"Morris, Patel and Sanchez"
+EL100427,Electronics Tv 427,16.89,Perfect gift option!,Burns and Sons
+EL100428,Electronics Avoid 428,696.65,Fantastic product with ethical sourcing.,Everett-Lawrence
+EL100429,Electronics Really 429,129.26,Satisfied with the purchase.,Jensen-Sandoval
+EL100430,Electronics Close 430,896.41,Fantastic product with ethical sourcing.,"Thompson, Yoder and Dougherty"
+EL100431,Electronics Drug 431,981.15,Not worth the price.,"Blackburn, Johnson and Rivera"
+EL100432,Electronics Scene 432,716.3,Fantastic product with ethical sourcing.,Ford PLC
+EL100433,Electronics Black 433,823.89,Good but overpriced.,Melton-Spears
+EL100434,Electronics May 434,11.53,Not worth the price.,Guzman-Kirk
+EL100435,Electronics Floor 435,644.69,Fantastic product with ethical sourcing.,"Mora, Pollard and Orr"
+EL100436,Electronics Family 436,778.54,Perfect gift option!,Fisher Group
+EL100437,Electronics During 437,149.92,Not worth the price.,Munoz PLC
+EL100438,Electronics Brother 438,456.97,Perfect gift option!,Mcguire-King
+EL100439,Electronics Management 439,466.06,"Average experience, could be better.","Palmer, Gomez and Stewart"
+EL100440,Electronics Few 440,98.99,"Average experience, could be better.",Burgess PLC
+EL100441,Electronics Should 441,652.53,Satisfied with the purchase.,"Hudson, Sutton and Alvarez"
+EL100442,Electronics Compare 442,146.09,Fantastic product with ethical sourcing.,Camacho-Adams
+EL100443,Electronics Have 443,622.0,Satisfied with the purchase.,Stewart Ltd
+EL100444,Electronics Early 444,7.48,Great quality and fast delivery!,Mitchell Group
+EL100445,Electronics Word 445,872.39,Satisfied with the purchase.,Osborn Inc
+EL100446,Electronics Reflect 446,601.78,Perfect gift option!,"Davis, Beck and Campbell"
+EL100447,Electronics Operation 447,901.89,"Average experience, could be better.",Patterson Ltd
+EL100448,Electronics Third 448,933.27,Wouldn’t buy again.,Cox-Davenport
+EL100449,Electronics Play 449,45.61,Fantastic product with ethical sourcing.,Burch PLC
+EL100450,Electronics Become 450,963.2,Good but overpriced.,Taylor-Mendoza
+EL100451,Electronics She 451,61.34,Great quality and fast delivery!,"Carter, Reilly and Williams"
+EL100452,Electronics Collection 452,462.19,Not worth the price.,Rogers Group
+EL100453,Electronics Pull 453,697.87,Wouldn’t buy again.,Kelley PLC
+EL100454,Electronics Price 454,622.15,Perfect gift option!,Farmer and Sons
+EL100455,Electronics Show 455,381.77,Fantastic product with ethical sourcing.,"Williams, Wood and Davis"
+EL100456,Electronics Follow 456,566.7,Good but overpriced.,"Garcia, Turner and Cowan"
+EL100457,Electronics Plan 457,579.22,"Excellent product, highly recommend.",Miller Group
+EL100458,Electronics Same 458,597.67,Fantastic product with ethical sourcing.,Anderson-Garcia
+EL100459,Electronics Although 459,32.67,Great quality and fast delivery!,Foster Group
+EL100460,Electronics Than 460,554.84,Perfect gift option!,Rogers-Meyer
+EL100461,Electronics Animal 461,859.5,Perfect gift option!,"Jackson, Mcclain and Hebert"
+EL100462,Electronics Authority 462,147.22,Fantastic product with ethical sourcing.,Garrett-Reese
+EL100463,Electronics To 463,192.14,Not worth the price.,Garcia Inc
+EL100464,Electronics Lay 464,928.7,Satisfied with the purchase.,Moore Ltd
+EL100465,Electronics Cover 465,686.59,"Average experience, could be better.",Jones Inc
+EL100466,Electronics Need 466,203.94,Fantastic product with ethical sourcing.,Wilson-Ray
+EL100467,Electronics Still 467,279.27,Wouldn’t buy again.,"Sims, Fowler and Brown"
+EL100468,Electronics Word 468,713.23,Fantastic product with ethical sourcing.,"Franklin, Smith and Silva"
+EL100469,Electronics Wall 469,879.13,Satisfied with the purchase.,"Salazar, Kim and Rangel"
+EL100470,Electronics Require 470,886.85,Not worth the price.,Hawkins LLC
+EL100471,Electronics Writer 471,802.07,Perfect gift option!,"Thomas, Ellis and Mills"
+EL100472,Electronics Represent 472,461.74,"Excellent product, highly recommend.","Moran, Huerta and Carson"
+EL100473,Electronics Billion 473,371.75,Fantastic product with ethical sourcing.,Zimmerman-Johnson
+EL100474,Electronics Include 474,574.86,Not worth the price.,Thomas-Adams
+EL100475,Electronics Computer 475,786.94,Satisfied with the purchase.,"Franklin, Hubbard and Moses"
+EL100476,Electronics These 476,17.82,Good but overpriced.,Huang LLC
+EL100477,Electronics Rest 477,637.01,"Average experience, could be better.",Rosales Group
+EL100478,Electronics Light 478,198.77,Very durable and eco-friendly packaging.,Villegas-Brock
+EL100479,Electronics Century 479,15.67,Perfect gift option!,"Baldwin, Norris and Mitchell"
+EL100480,Electronics Determine 480,41.64,"Average experience, could be better.",Larson-Williams
+EL100481,Electronics Group 481,390.81,Wouldn’t buy again.,Snyder PLC
+EL100482,Electronics Realize 482,643.39,"Average experience, could be better.",Roberts LLC
+EL100483,Electronics Professional 483,158.9,Good but overpriced.,Fletcher LLC
+EL100484,Electronics Admit 484,601.89,Not worth the price.,"Buchanan, Johnson and Jones"
+EL100485,Electronics Carry 485,14.9,"Excellent product, highly recommend.",Gibson and Sons
+EL100486,Electronics Up 486,539.44,Wouldn’t buy again.,Craig-Lynch
+EL100487,Electronics Measure 487,429.6,Not worth the price.,Brown-Hawkins
+EL100488,Electronics Grow 488,544.82,Great quality and fast delivery!,"Clark, Campbell and Rasmussen"
+EL100489,Electronics Piece 489,509.38,Great quality and fast delivery!,Adams PLC
+EL100490,Electronics Item 490,437.23,Satisfied with the purchase.,"Moore, Woods and Ortiz"
+EL100491,Electronics Thing 491,452.57,Perfect gift option!,"Carey, Jones and Sanchez"
+EL100492,Electronics Important 492,458.34,Satisfied with the purchase.,Turner-George
+EL100493,Electronics My 493,222.22,Fantastic product with ethical sourcing.,Price LLC
+EL100494,Electronics Something 494,824.55,Not worth the price.,Cummings PLC
+EL100495,Electronics Serious 495,450.34,Satisfied with the purchase.,Shelton PLC
+EL100496,Electronics Leave 496,888.55,"Average experience, could be better.",Johnson-Coleman
+EL100497,Electronics Decide 497,741.61,Great quality and fast delivery!,"Martinez, Zhang and Zuniga"
+EL100498,Electronics Close 498,939.39,Great quality and fast delivery!,Rodriguez and Sons
+EL100499,Electronics Knowledge 499,14.83,Perfect gift option!,"Fox, Contreras and Myers"
+EL100500,Electronics Modern 500,945.35,Very durable and eco-friendly packaging.,Valenzuela PLC
+EL100501,Electronics Computer 501,137.09,Good but overpriced.,Mills-Johnson
+EL100502,Electronics Science 502,305.98,Perfect gift option!,Little-Gray
+EL100503,Electronics Involve 503,263.66,Perfect gift option!,"Perry, Richards and Larson"
+EL100504,Electronics Artist 504,58.1,Very durable and eco-friendly packaging.,"Holt, Gonzalez and Nichols"
+EL100505,Electronics Yourself 505,879.81,Satisfied with the purchase.,"Rice, Dodson and Perez"
+EL100506,Electronics Window 506,864.77,Satisfied with the purchase.,"Hopkins, Patterson and Bean"
+EL100507,Electronics Other 507,251.19,Wouldn’t buy again.,"Davis, Steele and Stewart"
+EL100508,Electronics Build 508,261.61,Wouldn’t buy again.,Martin LLC
+EL100509,Electronics When 509,861.57,Satisfied with the purchase.,Shaw Ltd
+EL100510,Electronics Operation 510,187.4,Very durable and eco-friendly packaging.,Nguyen and Sons
+EL100511,Electronics Partner 511,533.08,Great quality and fast delivery!,"Martin, Lynn and Gallegos"
+EL100512,Electronics Page 512,688.86,Very durable and eco-friendly packaging.,"Hayes, Morrison and Ford"
+EL100513,Electronics Character 513,484.22,"Average experience, could be better.","Watson, Montoya and Melton"
+EL100514,Electronics Break 514,942.08,Very durable and eco-friendly packaging.,Simpson PLC
+EL100515,Electronics Several 515,182.99,Not worth the price.,"Stewart, Robinson and Ward"
+EL100516,Electronics Glass 516,439.84,Perfect gift option!,Morton PLC
+EL100517,Electronics Attention 517,261.26,Satisfied with the purchase.,Elliott-Mueller
+EL100518,Electronics Over 518,327.86,"Average experience, could be better.",Curry Inc
+EL100519,Electronics Night 519,423.93,Very durable and eco-friendly packaging.,Preston-Smith
+EL100520,Electronics Generation 520,16.97,"Average experience, could be better.",Miller PLC
+EL100521,Electronics Page 521,581.39,Not worth the price.,Huff Inc
+EL100522,Electronics Best 522,408.12,Satisfied with the purchase.,Parker-Russell
+EL100523,Electronics Increase 523,349.22,"Excellent product, highly recommend.","Peters, Simpson and Schmidt"
+EL100524,Electronics Student 524,11.73,Perfect gift option!,Brown-Anderson
+EL100525,Electronics Drop 525,119.02,Very durable and eco-friendly packaging.,Rose and Sons
+EL100526,Electronics Anything 526,595.73,Wouldn’t buy again.,"Brown, Conner and Johnson"
+EL100527,Electronics Could 527,669.8,"Excellent product, highly recommend.",Wright Ltd
+EL100528,Electronics Can 528,603.6,Good but overpriced.,Mills PLC
+EL100529,Electronics Add 529,340.74,Perfect gift option!,"Pearson, Hawkins and Davis"
+EL100530,Electronics Value 530,521.02,"Average experience, could be better.",Lee and Sons
+EL100531,Electronics Land 531,66.08,"Excellent product, highly recommend.",Reed-Lyons
+EL100532,Electronics Start 532,63.99,Great quality and fast delivery!,Oneill and Sons
+EL100533,Electronics Child 533,959.3,Wouldn’t buy again.,"Hernandez, Welch and Hampton"
+EL100534,Electronics Whatever 534,220.57,"Excellent product, highly recommend.",Calhoun-West
+EL100535,Electronics West 535,219.16,Fantastic product with ethical sourcing.,Allen-George
+EL100536,Electronics Crime 536,671.53,Great quality and fast delivery!,Lopez and Sons
+EL100537,Electronics True 537,237.68,Very durable and eco-friendly packaging.,"Davis, Lopez and Howard"
+EL100538,Electronics Drug 538,952.76,Fantastic product with ethical sourcing.,Martinez Group
+EL100539,Electronics Social 539,193.23,Great quality and fast delivery!,"Cuevas, Roberson and Stone"
+EL100540,Electronics Contain 540,367.13,Very durable and eco-friendly packaging.,Rodgers-Alexander
+EL100541,Electronics Pattern 541,548.72,Great quality and fast delivery!,Sullivan and Sons
+EL100542,Electronics Top 542,51.26,Not worth the price.,"Suarez, Oliver and Campbell"
+EL100543,Electronics National 543,437.06,Satisfied with the purchase.,Powers-Sanchez
+EL100544,Electronics Might 544,254.43,Good but overpriced.,Brown-Graham
+EL100545,Electronics Prove 545,721.55,Perfect gift option!,Martinez-Green
+EL100546,Electronics During 546,489.26,Very durable and eco-friendly packaging.,Baker Inc
+EL100547,Electronics Able 547,832.51,Perfect gift option!,Griffith Inc
+EL100548,Electronics Foreign 548,970.83,Satisfied with the purchase.,King-Collins
+EL100549,Electronics West 549,578.43,Satisfied with the purchase.,"Davis, Silva and Smith"
+EL100550,Electronics Mission 550,411.81,Wouldn’t buy again.,Donovan and Sons
+EL100551,Electronics Cut 551,767.76,Great quality and fast delivery!,Phillips-Harrell
+EL100552,Electronics Else 552,572.15,Satisfied with the purchase.,Foster-Hall
+EL100553,Electronics Authority 553,562.63,Very durable and eco-friendly packaging.,Simmons-Martin
+EL100554,Electronics However 554,417.1,Fantastic product with ethical sourcing.,Williams Ltd
+EL100555,Electronics Reflect 555,261.14,Fantastic product with ethical sourcing.,"Brown, White and Austin"
+EL100556,Electronics Color 556,166.47,Great quality and fast delivery!,Morrison PLC
+EL100557,Electronics Wonder 557,281.2,"Average experience, could be better.",Martinez-White
+EL100558,Electronics Every 558,670.59,Satisfied with the purchase.,Brown and Sons
+EL100559,Electronics Suffer 559,290.94,"Average experience, could be better.","Lane, Gibson and Turner"
+EL100560,Electronics Today 560,105.15,Perfect gift option!,"Lewis, Wood and Chavez"
+EL100561,Electronics Drive 561,483.6,Not worth the price.,Bradley PLC
+EL100562,Electronics Soldier 562,100.95,Very durable and eco-friendly packaging.,"Long, Williams and Sexton"
+EL100563,Electronics Start 563,527.84,Good but overpriced.,Higgins Inc
+EL100564,Electronics Raise 564,157.53,Satisfied with the purchase.,Vaughn-Wells
+EL100565,Electronics Lay 565,376.32,Good but overpriced.,Francis-Hoffman
+EL100566,Electronics Benefit 566,815.58,Good but overpriced.,Morse-Morales
+EL100567,Electronics Property 567,768.24,Satisfied with the purchase.,"Flynn, Gibson and Humphrey"
+EL100568,Electronics Quickly 568,237.57,Good but overpriced.,Smith-Ballard
+EL100569,Electronics Move 569,361.34,Perfect gift option!,Wiley and Sons
+EL100570,Electronics Herself 570,237.98,Satisfied with the purchase.,"Padilla, Sanders and Foster"
+EL100571,Electronics Appear 571,928.25,Fantastic product with ethical sourcing.,Austin Group
+EL100572,Electronics Probably 572,551.74,"Average experience, could be better.",Martin Group
+EL100573,Electronics Work 573,504.99,Not worth the price.,"Navarro, Davis and Garcia"
+EL100574,Electronics Accept 574,994.75,Perfect gift option!,Taylor-Morrison
+EL100575,Electronics Hour 575,560.87,Not worth the price.,Wilkinson and Sons
+EL100576,Electronics Drug 576,440.23,Great quality and fast delivery!,Sullivan LLC
+EL100577,Electronics Whom 577,834.27,Fantastic product with ethical sourcing.,Lopez PLC
+EL100578,Electronics Least 578,990.19,Perfect gift option!,Blanchard PLC
+EL100579,Electronics Main 579,593.05,"Average experience, could be better.",Roberts Ltd
+EL100580,Electronics Entire 580,930.12,Satisfied with the purchase.,Montoya-Camacho
+EL100581,Electronics Huge 581,454.52,"Average experience, could be better.",Garcia-Lawrence
+EL100582,Electronics Idea 582,921.78,Very durable and eco-friendly packaging.,Trujillo Inc
+EL100583,Electronics Health 583,298.32,Not worth the price.,Henson-Patel
+EL100584,Electronics Kind 584,701.26,Not worth the price.,Prince-Gallagher
+EL100585,Electronics Blood 585,755.35,Fantastic product with ethical sourcing.,"Boyd, Wright and Chambers"
+EL100586,Electronics Least 586,49.58,Very durable and eco-friendly packaging.,Morrow-Morton
+EL100587,Electronics Decide 587,711.48,"Average experience, could be better.",Brock-Warren
+EL100588,Electronics Television 588,74.51,"Average experience, could be better.","Guerrero, Miller and Estrada"
+EL100589,Electronics Ball 589,526.38,Great quality and fast delivery!,"Garrett, Williams and Schultz"
+EL100590,Electronics Design 590,267.81,Great quality and fast delivery!,Espinoza and Sons
+EL100591,Electronics Former 591,744.54,Not worth the price.,Smith Ltd
+EL100592,Electronics Mouth 592,108.69,Fantastic product with ethical sourcing.,Warren LLC
+EL100593,Electronics Measure 593,104.59,Good but overpriced.,"Schmidt, Smith and Reed"
+EL100594,Electronics After 594,67.32,Great quality and fast delivery!,Lee-Carter
+EL100595,Electronics Attorney 595,500.59,Fantastic product with ethical sourcing.,"Wright, Thompson and Butler"
+EL100596,Electronics Congress 596,386.26,Great quality and fast delivery!,Jackson-Meyers
+EL100597,Electronics Generation 597,15.64,Great quality and fast delivery!,Dixon Inc
+EL100598,Electronics Very 598,472.03,Wouldn’t buy again.,"Gonzalez, Gardner and Peck"
+EL100599,Electronics You 599,719.74,Satisfied with the purchase.,Medina-Foster
+EL100600,Electronics Team 600,44.81,Great quality and fast delivery!,Cameron Inc
+EL100601,Electronics Manager 601,554.31,Perfect gift option!,"Christensen, Hickman and Davis"
+EL100602,Electronics Hotel 602,814.89,Fantastic product with ethical sourcing.,Phillips-Peters
+EL100603,Electronics That 603,253.89,Not worth the price.,Meyer-Moore
+EL100604,Electronics My 604,849.54,Good but overpriced.,"Anderson, Moss and Harrison"
+EL100605,Electronics Fight 605,732.58,"Average experience, could be better.","Wagner, Davis and Morris"
+EL100606,Electronics Fire 606,70.09,Great quality and fast delivery!,"Thompson, Taylor and Robinson"
+EL100607,Electronics Trial 607,734.36,Satisfied with the purchase.,Steele-Savage
+EL100608,Electronics With 608,281.52,Very durable and eco-friendly packaging.,"Coleman, Gilmore and Vasquez"
+EL100609,Electronics Could 609,225.7,Fantastic product with ethical sourcing.,"Estrada, Zamora and Spencer"
+EL100610,Electronics Quality 610,766.5,Great quality and fast delivery!,White-Cummings
+EL100611,Electronics Writer 611,402.04,"Excellent product, highly recommend.",Tucker and Sons
+EL100612,Electronics Themselves 612,329.73,Wouldn’t buy again.,Arias LLC
+EL100613,Electronics Away 613,197.87,Fantastic product with ethical sourcing.,Young Ltd
+EL100614,Electronics Truth 614,140.05,Perfect gift option!,Morales-Guzman
+EL100615,Electronics Run 615,488.42,Wouldn’t buy again.,Rios-Johnson
+EL100616,Electronics The 616,534.45,Great quality and fast delivery!,Ortiz LLC
+EL100617,Electronics Get 617,310.51,"Average experience, could be better.",Garrett and Sons
+EL100618,Electronics Reduce 618,349.58,"Average experience, could be better.",Hansen Inc
+EL100619,Electronics Evidence 619,75.25,"Average experience, could be better.","Johnson, Villarreal and Lopez"
+EL100620,Electronics His 620,293.78,Wouldn’t buy again.,"Hartman, Bishop and Gutierrez"
+EL100621,Electronics Tax 621,303.41,"Average experience, could be better.",Stanley Ltd
+EL100622,Electronics Very 622,483.35,Good but overpriced.,Wu-Galloway
+EL100623,Electronics Thus 623,700.79,Fantastic product with ethical sourcing.,Hoffman LLC
+EL100624,Electronics Collection 624,377.98,"Average experience, could be better.","Wolfe, Hoffman and Harris"
+EL100625,Electronics Whatever 625,249.87,Satisfied with the purchase.,Livingston-May
+EL100626,Electronics Check 626,892.88,Great quality and fast delivery!,Diaz PLC
+EL100627,Electronics Service 627,797.96,Not worth the price.,Novak-Price
+EL100628,Electronics Surface 628,91.09,Good but overpriced.,"Smith, Burton and Turner"
+EL100629,Electronics Line 629,705.87,"Excellent product, highly recommend.",Conner-Lloyd
+EL100630,Electronics Bit 630,242.5,Satisfied with the purchase.,Burnett and Sons
+EL100631,Electronics President 631,939.87,Great quality and fast delivery!,Murphy-Cox
+EL100632,Electronics Rather 632,189.13,Good but overpriced.,Aguilar-Martin
+EL100633,Electronics Offer 633,682.78,"Average experience, could be better.",Oliver-Mills
+EL100634,Electronics Meeting 634,554.84,Satisfied with the purchase.,Goodman-Richard
+EL100635,Electronics Toward 635,663.25,Great quality and fast delivery!,"Simmons, Martin and Shaw"
+EL100636,Electronics Fine 636,589.95,"Average experience, could be better.",Chavez PLC
+EL100637,Electronics To 637,706.23,Satisfied with the purchase.,Powers-Shields
+EL100638,Electronics Trip 638,275.53,Very durable and eco-friendly packaging.,"Santana, Lee and Prince"
+EL100639,Electronics When 639,118.29,Wouldn’t buy again.,Carter PLC
+EL100640,Electronics She 640,968.19,Good but overpriced.,Clark PLC
+EL100641,Electronics Dark 641,56.39,"Average experience, could be better.","Martinez, Greene and Gray"
+EL100642,Electronics Determine 642,151.4,Wouldn’t buy again.,"Ellison, Khan and Franklin"
+EL100643,Electronics For 643,70.48,Good but overpriced.,"Thompson, Leblanc and Banks"
+EL100644,Electronics Eight 644,375.08,Very durable and eco-friendly packaging.,Clark-Reed
+EL100645,Electronics Debate 645,79.19,Very durable and eco-friendly packaging.,Carter PLC
+EL100646,Electronics Blood 646,329.8,Not worth the price.,"Rangel, Jones and Williams"
+EL100647,Electronics Both 647,139.05,Wouldn’t buy again.,"Cowan, Thompson and Garza"
+EL100648,Electronics Professor 648,966.59,Very durable and eco-friendly packaging.,Dominguez-Turner
+EL100649,Electronics White 649,165.02,Very durable and eco-friendly packaging.,"Flynn, Ruiz and Nelson"
+EL100650,Electronics Already 650,318.91,Fantastic product with ethical sourcing.,Willis Ltd
+EL100651,Electronics Story 651,778.8,Great quality and fast delivery!,Crawford Inc
+EL100652,Electronics Wide 652,488.23,Satisfied with the purchase.,"Johnson, Levy and Daniel"
+EL100653,Electronics Majority 653,385.62,Perfect gift option!,"Robinson, Brown and Long"
+EL100654,Electronics Art 654,80.16,"Average experience, could be better.",Bolton LLC
+EL100655,Electronics What 655,641.95,Perfect gift option!,"Gonzalez, Hogan and Howard"
+EL100656,Electronics Single 656,704.92,Perfect gift option!,Stein-Baker
+EL100657,Electronics Appear 657,758.5,Wouldn’t buy again.,Miller LLC
+EL100658,Electronics Until 658,970.9,Good but overpriced.,"Watkins, Serrano and Williams"
+EL100659,Electronics Window 659,601.18,Great quality and fast delivery!,Silva-Edwards
+EL100660,Electronics President 660,757.68,Good but overpriced.,Wolf-Duncan
+EL100661,Electronics Put 661,86.29,"Average experience, could be better.","Graves, Vaughan and Burke"
+EL100662,Electronics Bank 662,667.26,Wouldn’t buy again.,Spears-Walker
+EL100663,Electronics Seek 663,390.98,Very durable and eco-friendly packaging.,"Sanchez, Baker and Callahan"
+EL100664,Electronics Sometimes 664,24.8,Very durable and eco-friendly packaging.,Sherman-Jones
+EL100665,Electronics Trade 665,870.39,"Average experience, could be better.",Walters-Nelson
+EL100666,Electronics Past 666,860.82,Good but overpriced.,Banks-Murphy
+EL100667,Electronics Technology 667,195.73,Fantastic product with ethical sourcing.,Barrett-Howard
+EL100668,Electronics Within 668,511.37,Good but overpriced.,Contreras PLC
+EL100669,Electronics Beyond 669,146.64,"Average experience, could be better.","Jensen, Moore and Dixon"
+EL100670,Electronics Individual 670,735.68,"Excellent product, highly recommend.",Jones-Hernandez
+EL100671,Electronics Music 671,138.23,"Average experience, could be better.",Bryan-Dean
+EL100672,Electronics Opportunity 672,448.5,Very durable and eco-friendly packaging.,"Henderson, Santos and Garcia"
+EL100673,Electronics Attack 673,95.87,Not worth the price.,Williams-Fox
+EL100674,Electronics Customer 674,380.39,Great quality and fast delivery!,"Palmer, Davis and Robles"
+EL100675,Electronics Strategy 675,979.88,Not worth the price.,"Perez, Glover and Mejia"
+EL100676,Electronics Officer 676,400.61,Fantastic product with ethical sourcing.,Smith-Ferrell
+EL100677,Electronics Speak 677,383.87,Satisfied with the purchase.,"Bennett, Young and Anderson"
+EL100678,Electronics Former 678,470.04,Not worth the price.,Davis Ltd
+EL100679,Electronics Glass 679,821.38,Good but overpriced.,"Black, Guzman and Vang"
+EL100680,Electronics Quality 680,19.93,Not worth the price.,Bennett-Coffey
+EL100681,Electronics Tree 681,554.15,Satisfied with the purchase.,Cox-Delgado
+EL100682,Electronics More 682,906.94,Perfect gift option!,"Shaffer, Jones and Vance"
+EL100683,Electronics Half 683,259.3,Perfect gift option!,Robinson Group
+EL100684,Electronics Use 684,131.48,Fantastic product with ethical sourcing.,Powell LLC
+EL100685,Electronics Computer 685,127.94,Wouldn’t buy again.,Burns-Castro
+EL100686,Electronics Energy 686,258.23,Very durable and eco-friendly packaging.,Olson LLC
+EL100687,Electronics Kind 687,717.17,Wouldn’t buy again.,Williams PLC
+EL100688,Electronics Long 688,289.41,Great quality and fast delivery!,Finley-Pratt
+EL100689,Electronics Effort 689,506.68,Fantastic product with ethical sourcing.,Rodriguez-Fletcher
+EL100690,Electronics Cultural 690,503.58,Satisfied with the purchase.,"Joseph, Nelson and James"
+EL100691,Electronics Around 691,631.34,Very durable and eco-friendly packaging.,Bruce-Atkinson
+EL100692,Electronics Language 692,219.09,Satisfied with the purchase.,"Kline, Murray and Foster"
+EL100693,Electronics Through 693,819.75,Not worth the price.,Rowe-Kirby
+EL100694,Electronics Important 694,451.99,"Excellent product, highly recommend.",Thompson PLC
+EL100695,Electronics Teach 695,343.19,"Excellent product, highly recommend.","Williamson, Wilson and Wood"
+EL100696,Electronics Bank 696,33.29,Fantastic product with ethical sourcing.,Cooper and Sons
+EL100697,Electronics Available 697,727.13,Very durable and eco-friendly packaging.,Cook-Nguyen
+EL100698,Electronics Bad 698,37.81,"Excellent product, highly recommend.",Navarro-Saunders
+EL100699,Electronics Approach 699,18.19,Great quality and fast delivery!,Alvarado Group
+EL100700,Electronics Rock 700,475.8,Good but overpriced.,Huffman Group
+EL100701,Electronics When 701,27.77,Perfect gift option!,"Walton, Hanson and Thompson"
+EL100702,Electronics Again 702,130.52,"Average experience, could be better.","Allen, Hill and Mccormick"
+EL100703,Electronics Ago 703,997.2,Satisfied with the purchase.,"Alexander, Martinez and Rice"
+EL100704,Electronics Way 704,433.05,Good but overpriced.,"Eaton, Smith and Hart"
+EL100705,Electronics This 705,288.03,Perfect gift option!,Combs Inc
+EL100706,Electronics Professor 706,270.25,Very durable and eco-friendly packaging.,Dunlap-Edwards
+EL100707,Electronics Sit 707,12.64,"Average experience, could be better.",Pitts and Sons
+EL100708,Electronics Admit 708,158.62,Very durable and eco-friendly packaging.,"Perkins, Olson and Trujillo"
+EL100709,Electronics Light 709,734.58,"Excellent product, highly recommend.",Wagner-Elliott
+EL100710,Electronics Project 710,609.86,Great quality and fast delivery!,Cole-Wilson
+EL100711,Electronics Risk 711,179.24,Perfect gift option!,Wiggins and Sons
+EL100712,Electronics Top 712,262.54,"Excellent product, highly recommend.","Keller, Ramirez and Phillips"
+EL100713,Electronics Fast 713,363.76,Great quality and fast delivery!,"Griffith, Collins and Gonzales"
+EL100714,Electronics Drive 714,122.69,Very durable and eco-friendly packaging.,"Williams, Beard and Lopez"
+EL100715,Electronics Kind 715,231.6,"Excellent product, highly recommend.","Brooks, Moore and Calderon"
+EL100716,Electronics Model 716,121.13,Great quality and fast delivery!,Cameron-Wright
+EL100717,Electronics Agreement 717,528.55,Not worth the price.,"Sanchez, James and Chase"
+EL100718,Electronics Less 718,833.74,"Average experience, could be better.",Fisher-Jones
+EL100719,Electronics Government 719,959.17,Not worth the price.,"Frost, Jones and Vincent"
+EL100720,Electronics Talk 720,510.59,Good but overpriced.,House PLC
+EL100721,Electronics Audience 721,43.7,Great quality and fast delivery!,Neal and Sons
+EL100722,Electronics Reflect 722,587.81,"Excellent product, highly recommend.",Hernandez and Sons
+EL100723,Electronics Her 723,641.2,"Excellent product, highly recommend.",Jones-Faulkner
+EL100724,Electronics Source 724,220.06,Great quality and fast delivery!,Jones-Knight
+EL100725,Electronics Industry 725,62.29,Not worth the price.,Ramirez-Gonzalez
+EL100726,Electronics Sound 726,901.55,Great quality and fast delivery!,"Levine, Higgins and Alexander"
+EL100727,Electronics Officer 727,846.66,"Excellent product, highly recommend.","Sanchez, Welch and Dixon"
+EL100728,Electronics Road 728,211.01,Not worth the price.,Garrett-Bowman
+EL100729,Electronics Memory 729,323.13,Great quality and fast delivery!,Guerrero Ltd
+EL100730,Electronics Return 730,91.64,"Excellent product, highly recommend.",Guerra LLC
+EL100731,Electronics Whether 731,309.34,Fantastic product with ethical sourcing.,Ramos-Stewart
+EL100732,Electronics Baby 732,734.49,Perfect gift option!,Reese LLC
+EL100733,Electronics Town 733,25.98,Great quality and fast delivery!,"Skinner, Thomas and Alvarez"
+EL100734,Electronics Also 734,406.3,"Excellent product, highly recommend.","George, Maldonado and Tucker"
+EL100735,Electronics Success 735,296.43,Good but overpriced.,Finley Ltd
+EL100736,Electronics Especially 736,629.68,Good but overpriced.,Allen-Floyd
+EL100737,Electronics Religious 737,676.51,"Excellent product, highly recommend.","Randall, Parks and Washington"
+EL100738,Electronics Bed 738,637.31,Perfect gift option!,Atkinson-Johnson
+EL100739,Electronics Team 739,330.23,Good but overpriced.,"Hancock, Cline and Carey"
+EL100740,Electronics On 740,421.05,"Excellent product, highly recommend.",Warner-Holland
+EL100741,Electronics Spring 741,283.06,Great quality and fast delivery!,"White, Morris and Walker"
+EL100742,Electronics Center 742,175.39,Very durable and eco-friendly packaging.,Moore PLC
+EL100743,Electronics Whom 743,516.48,Great quality and fast delivery!,"Harrington, Brown and Reed"
+EL100744,Electronics Long 744,239.6,Great quality and fast delivery!,"Rivera, Wright and Stewart"
+EL100745,Electronics End 745,228.55,Wouldn’t buy again.,Gibson and Sons
+EL100746,Electronics Theory 746,446.21,Very durable and eco-friendly packaging.,Chang and Sons
+EL100747,Electronics Chair 747,714.9,Great quality and fast delivery!,Ballard LLC
+EL100748,Electronics Heart 748,330.53,Good but overpriced.,James-Davis
+EL100749,Electronics Particular 749,795.21,Great quality and fast delivery!,"Carroll, Ruiz and Hughes"
+EL100750,Electronics Gun 750,646.32,"Average experience, could be better.",Blair-Maxwell
+EL100751,Electronics This 751,682.23,Good but overpriced.,Maldonado-Reese
+EL100752,Electronics Machine 752,577.54,Good but overpriced.,Cross-Walker
+EL100753,Electronics Through 753,710.3,"Excellent product, highly recommend.","Martin, Garcia and Chavez"
+EL100754,Electronics Hair 754,564.12,Very durable and eco-friendly packaging.,Foster LLC
+EL100755,Electronics Land 755,331.1,Satisfied with the purchase.,"Stout, Bernard and Miranda"
+EL100756,Electronics Above 756,641.4,Great quality and fast delivery!,King-Leonard
+EL100757,Electronics Garden 757,30.57,"Average experience, could be better.",Chavez-Lopez
+EL100758,Electronics Couple 758,913.98,Satisfied with the purchase.,Davis-Weaver
+EL100759,Electronics Office 759,963.71,Perfect gift option!,"Miller, Hess and Cross"
+EL100760,Electronics Since 760,738.45,Good but overpriced.,Smith-Smith
+EL100761,Electronics Operation 761,714.83,Wouldn’t buy again.,Rice Ltd
+EL100762,Electronics Force 762,121.83,"Average experience, could be better.",Wilson-George
+EL100763,Electronics Mouth 763,137.92,Good but overpriced.,Parker-Simmons
+EL100764,Electronics Hope 764,378.64,"Average experience, could be better.",Nelson-Barnes
+EL100765,Electronics Face 765,136.98,Not worth the price.,Baxter LLC
+EL100766,Electronics Help 766,429.33,Great quality and fast delivery!,"Robinson, Bush and Nelson"
+EL100767,Electronics Their 767,412.79,Good but overpriced.,"Beasley, Love and Morrow"
+EL100768,Electronics Question 768,710.04,Satisfied with the purchase.,Choi-Moreno
+EL100769,Electronics Lay 769,683.69,"Excellent product, highly recommend.","Padilla, Johnson and Freeman"
+EL100770,Electronics Accept 770,873.8,Good but overpriced.,Frost and Sons
+EL100771,Electronics American 771,986.51,"Average experience, could be better.",Dodson-Miller
+EL100772,Electronics That 772,642.3,Perfect gift option!,"Cole, Ramirez and Mccoy"
+EL100773,Electronics Statement 773,359.65,"Average experience, could be better.","Carroll, Kemp and Villarreal"
+EL100774,Electronics Mouth 774,425.95,Not worth the price.,"Perez, Calderon and Simpson"
+EL100775,Electronics Main 775,789.2,Great quality and fast delivery!,Reese-Smith
+EL100776,Electronics Reach 776,231.13,Wouldn’t buy again.,Contreras-Smith
+EL100777,Electronics Form 777,58.94,Great quality and fast delivery!,Mcintyre-Perez
+EL100778,Electronics Both 778,58.54,"Excellent product, highly recommend.",Guerrero PLC
+EL100779,Electronics Top 779,672.91,"Average experience, could be better.",Wallace-Ramsey
+EL100780,Electronics Mind 780,7.49,Perfect gift option!,"Thompson, Cooper and Washington"
+EL100781,Electronics Model 781,886.15,"Excellent product, highly recommend.",Barnes-Bailey
+EL100782,Electronics Concern 782,728.37,Very durable and eco-friendly packaging.,"Johnson, Berry and Wallace"
+EL100783,Electronics Study 783,719.99,Fantastic product with ethical sourcing.,Porter-Mora
+EL100784,Electronics Away 784,62.37,Good but overpriced.,Hayden and Sons
+EL100785,Electronics Particularly 785,402.72,Wouldn’t buy again.,"Fuller, Clark and Cook"
+EL100786,Electronics Certainly 786,433.16,Good but overpriced.,Woodard-Johnston
+EL100787,Electronics Goal 787,394.05,"Excellent product, highly recommend.",Mathis Group
+EL100788,Electronics Nature 788,420.15,"Average experience, could be better.",Barnes-Mckee
+EL100789,Electronics Scientist 789,894.12,Fantastic product with ethical sourcing.,Fox and Sons
+EL100790,Electronics Development 790,402.65,Fantastic product with ethical sourcing.,"Zimmerman, Ochoa and Collier"
+EL100791,Electronics Travel 791,569.67,"Excellent product, highly recommend.",Griffin and Sons
+EL100792,Electronics Like 792,692.05,Fantastic product with ethical sourcing.,"Morales, Hawkins and Thomas"
+EL100793,Electronics Instead 793,856.48,Satisfied with the purchase.,"Sanchez, Scott and Wright"
+EL100794,Electronics Likely 794,430.33,Fantastic product with ethical sourcing.,Newman PLC
+EL100795,Electronics Like 795,699.33,Perfect gift option!,Moreno PLC
+EL100796,Electronics Thank 796,118.0,Not worth the price.,Wells Inc
+EL100797,Electronics Save 797,825.54,Not worth the price.,"Arnold, Proctor and Foster"
+EL100798,Electronics Piece 798,150.51,Perfect gift option!,Perez LLC
+EL100799,Electronics Fight 799,616.76,"Average experience, could be better.",Richards Ltd
+EL100800,Electronics Young 800,839.52,Very durable and eco-friendly packaging.,Cunningham and Sons
+EL100801,Electronics Religious 801,17.47,Not worth the price.,Holder-Snyder
+EL100802,Electronics Indeed 802,51.74,Great quality and fast delivery!,Moss-Richards
+EL100803,Electronics Provide 803,222.55,"Average experience, could be better.","Terry, West and Krueger"
+EL100804,Electronics Late 804,967.06,Satisfied with the purchase.,"Shaw, Leon and Anderson"
+EL100805,Electronics Art 805,914.46,Good but overpriced.,"Moore, Lopez and Wood"
+EL100806,Electronics Nice 806,348.55,"Average experience, could be better.",Horton and Sons
+EL100807,Electronics Meeting 807,250.63,Very durable and eco-friendly packaging.,Patterson-Petersen
+EL100808,Electronics Right 808,248.07,Perfect gift option!,Choi-Cooper
+EL100809,Electronics Break 809,512.46,"Excellent product, highly recommend.",Lawrence-Anderson
+EL100810,Electronics Leader 810,511.82,Wouldn’t buy again.,"Jones, Taylor and Bennett"
+EL100811,Electronics Summer 811,471.84,"Average experience, could be better.","Brooks, Reynolds and Rogers"
+EL100812,Electronics Course 812,712.02,Satisfied with the purchase.,"Figueroa, Bradshaw and Fernandez"
+EL100813,Electronics Bag 813,106.07,Good but overpriced.,"Johnson, Sheppard and Smith"
+EL100814,Electronics Military 814,581.13,Perfect gift option!,"Martinez, Solis and Stephenson"
+EL100815,Electronics Change 815,26.49,Satisfied with the purchase.,"Warren, Dorsey and Phillips"
+EL100816,Electronics Feel 816,353.74,Great quality and fast delivery!,"Smith, Henderson and Brooks"
+EL100817,Electronics Change 817,516.67,Good but overpriced.,"James, Wade and Hernandez"
+EL100818,Electronics If 818,630.35,Wouldn’t buy again.,Smith-Carlson
+EL100819,Electronics Quite 819,884.94,"Average experience, could be better.",Wilson-Mckinney
+EL100820,Electronics Later 820,379.37,Great quality and fast delivery!,"Gomez, Bennett and Jackson"
+EL100821,Electronics Professor 821,441.53,Satisfied with the purchase.,Mathews Group
+EL100822,Electronics Particular 822,667.24,Good but overpriced.,Chambers Ltd
+EL100823,Electronics Politics 823,162.53,Very durable and eco-friendly packaging.,"Chavez, Daugherty and Hood"
+EL100824,Electronics Sell 824,140.38,Fantastic product with ethical sourcing.,"Colon, Smith and Sweeney"
+EL100825,Electronics Relationship 825,978.27,Very durable and eco-friendly packaging.,Campbell Inc
+EL100826,Electronics Himself 826,787.3,"Excellent product, highly recommend.","Smith, Booth and Wolf"
+EL100827,Electronics Land 827,544.88,Wouldn’t buy again.,Avery-Patton
+EL100828,Electronics Money 828,169.04,"Average experience, could be better.",Weber-Smith
+EL100829,Electronics Yard 829,750.54,Satisfied with the purchase.,"Brennan, Brown and Phillips"
+EL100830,Electronics Carry 830,79.74,Perfect gift option!,Jenkins-Mckenzie
+EL100831,Electronics Economy 831,199.36,"Excellent product, highly recommend.","Cardenas, Cantrell and Mcbride"
+EL100832,Electronics Center 832,121.83,Great quality and fast delivery!,"Wu, Cohen and Benjamin"
+EL100833,Electronics Street 833,216.68,"Excellent product, highly recommend.",Lee Inc
+EL100834,Electronics Understand 834,816.34,"Excellent product, highly recommend.",Ferguson Group
+EL100835,Electronics Product 835,882.99,Great quality and fast delivery!,Logan-Erickson
+EL100836,Electronics Raise 836,392.93,Wouldn’t buy again.,Garcia and Sons
+EL100837,Electronics Late 837,232.25,"Excellent product, highly recommend.",Murphy-Oconnell
+EL100838,Electronics Rule 838,780.34,"Average experience, could be better.",Stewart-Parker
+EL100839,Electronics Garden 839,137.67,Very durable and eco-friendly packaging.,Ward-Beck
+EL100840,Electronics Daughter 840,910.5,Great quality and fast delivery!,"Long, White and Miller"
+EL100841,Electronics He 841,448.14,Fantastic product with ethical sourcing.,Johnson-Alexander
+EL100842,Electronics Wish 842,656.43,"Excellent product, highly recommend.","Hatfield, Wilson and Adams"
+EL100843,Electronics Unit 843,492.18,Good but overpriced.,"Lewis, Hobbs and Hill"
+EL100844,Electronics Early 844,336.25,Not worth the price.,"Nelson, Green and Anderson"
+EL100845,Electronics Happy 845,805.83,"Average experience, could be better.","Ramirez, Fernandez and Ryan"
+EL100846,Electronics Site 846,322.81,Wouldn’t buy again.,Sheppard Group
+EL100847,Electronics Want 847,706.42,Perfect gift option!,Parker-Garcia
+EL100848,Electronics Once 848,613.13,"Excellent product, highly recommend.",Diaz-Lee
+EL100849,Electronics Indeed 849,168.85,Great quality and fast delivery!,Sellers Ltd
+EL100850,Electronics Process 850,231.28,Wouldn’t buy again.,Dennis Ltd
+EL100851,Electronics Memory 851,130.62,"Average experience, could be better.",Hernandez PLC
+EL100852,Electronics Color 852,403.36,Very durable and eco-friendly packaging.,Perez-Miles
+EL100853,Electronics Grow 853,157.24,Perfect gift option!,"Malone, Gutierrez and Khan"
+EL100854,Electronics Their 854,446.57,Fantastic product with ethical sourcing.,"Harris, Hamilton and Rangel"
+EL100855,Electronics Gas 855,31.94,"Average experience, could be better.","Garcia, Patterson and Roberts"
+EL100856,Electronics Management 856,481.01,Fantastic product with ethical sourcing.,Baker and Sons
+EL100857,Electronics Animal 857,750.02,Very durable and eco-friendly packaging.,Williams-Kennedy
+EL100858,Electronics Picture 858,60.84,Wouldn’t buy again.,Hubbard Group
+EL100859,Electronics Like 859,34.48,Fantastic product with ethical sourcing.,Stone PLC
+EL100860,Electronics Happen 860,10.48,Very durable and eco-friendly packaging.,White LLC
+EL100861,Electronics Seek 861,689.58,Fantastic product with ethical sourcing.,Austin Inc
+EL100862,Electronics Until 862,466.22,"Excellent product, highly recommend.",Howard and Sons
+EL100863,Electronics Middle 863,718.04,Fantastic product with ethical sourcing.,"Pennington, Roberts and Ellis"
+EL100864,Electronics Necessary 864,309.03,Good but overpriced.,Flores PLC
+EL100865,Electronics Still 865,390.72,Good but overpriced.,Ferguson-Young
+EL100866,Electronics Eat 866,317.97,Fantastic product with ethical sourcing.,"Miles, Smith and Chavez"
+EL100867,Electronics Talk 867,395.2,Good but overpriced.,"Savage, Burnett and Ward"
+EL100868,Electronics Few 868,825.44,"Excellent product, highly recommend.",Dean-Giles
+EL100869,Electronics Fund 869,92.87,"Excellent product, highly recommend.",Atkinson LLC
+EL100870,Electronics High 870,253.72,Not worth the price.,Simpson Ltd
+EL100871,Electronics Rather 871,903.56,Very durable and eco-friendly packaging.,Alvarez Inc
+EL100872,Electronics Phone 872,262.96,Not worth the price.,Murray-Jones
+EL100873,Electronics Three 873,640.11,Satisfied with the purchase.,"Morris, Banks and Jones"
+EL100874,Electronics Fear 874,23.44,"Average experience, could be better.","Maxwell, Jacobs and Wilson"
+EL100875,Electronics Compare 875,71.87,Satisfied with the purchase.,"Marquez, Buchanan and Alexander"
+EL100876,Electronics Full 876,880.05,Good but overpriced.,Jackson-Smith
+EL100877,Electronics Or 877,799.52,"Excellent product, highly recommend.",Rodriguez-Anderson
+EL100878,Electronics Customer 878,692.59,Good but overpriced.,Harris-Hall
+EL100879,Electronics Child 879,892.17,Good but overpriced.,Davidson-Mendez
+EL100880,Electronics Media 880,413.52,Great quality and fast delivery!,Hawkins Group
+EL100881,Electronics Behind 881,718.47,Wouldn’t buy again.,Ortiz and Sons
+EL100882,Electronics Whether 882,925.93,Not worth the price.,"Chen, Herman and Cruz"
+EL100883,Electronics Window 883,907.36,"Excellent product, highly recommend.",Hill Group
+EL100884,Electronics Reality 884,821.33,"Excellent product, highly recommend.","Jones, Evans and Vargas"
+EL100885,Electronics Beat 885,771.52,Very durable and eco-friendly packaging.,Robinson-Clark
+EL100886,Electronics Consumer 886,782.1,Very durable and eco-friendly packaging.,"Gibbs, Bishop and Parker"
+EL100887,Electronics Figure 887,417.16,"Excellent product, highly recommend.",Spears-Hayes
+EL100888,Electronics Themselves 888,591.45,Perfect gift option!,Reid and Sons
+EL100889,Electronics Play 889,648.88,"Average experience, could be better.",Wilson-Hubbard
+EL100890,Electronics Seven 890,247.12,"Average experience, could be better.",Cook LLC
+EL100891,Electronics Tonight 891,314.83,Wouldn’t buy again.,Lane and Sons
+EL100892,Electronics Much 892,456.28,Wouldn’t buy again.,Bell-Middleton
+EL100893,Electronics Learn 893,623.91,Not worth the price.,"Russell, Leblanc and Hubbard"
+EL100894,Electronics Set 894,989.1,Not worth the price.,Smith Group
+EL100895,Electronics Feel 895,237.41,Wouldn’t buy again.,Meadows LLC
+EL100896,Electronics Program 896,910.5,"Average experience, could be better.","Campbell, Sanchez and Cooley"
+EL100897,Electronics Rich 897,781.9,"Average experience, could be better.","Kent, Collins and Sampson"
+EL100898,Electronics Out 898,317.91,Great quality and fast delivery!,Cummings Ltd
+EL100899,Electronics Man 899,845.69,Not worth the price.,Adams Group
+EL100900,Electronics According 900,64.82,Good but overpriced.,Mejia Inc
+EL100901,Electronics Paper 901,798.27,"Excellent product, highly recommend.","Bates, Wright and Pacheco"
+EL100902,Electronics Guess 902,879.32,Very durable and eco-friendly packaging.,Jones-Rojas
+EL100903,Electronics Ahead 903,758.03,"Average experience, could be better.","Hill, Silva and Hood"
+EL100904,Electronics Wind 904,79.97,Not worth the price.,"Miller, Cook and Vargas"
+EL100905,Electronics Certainly 905,255.96,Very durable and eco-friendly packaging.,Johnson-Horne
+EL100906,Electronics So 906,14.75,Very durable and eco-friendly packaging.,Goodwin-Lam
+EL100907,Electronics Far 907,977.37,Great quality and fast delivery!,"Bradley, Duke and Crawford"
+EL100908,Electronics Later 908,466.87,Fantastic product with ethical sourcing.,Garcia Group
+EL100909,Electronics Why 909,24.36,Perfect gift option!,Hill-Lewis
+EL100910,Electronics Ball 910,658.62,"Excellent product, highly recommend.","Bryant, Bradley and Webb"
+EL100911,Electronics Indicate 911,318.09,Good but overpriced.,Turner Group
+EL100912,Electronics Player 912,420.92,Not worth the price.,Robinson Group
+EL100913,Electronics Put 913,136.19,Great quality and fast delivery!,Parker Group
+EL100914,Electronics Forget 914,824.93,"Average experience, could be better.",Fernandez Inc
+EL100915,Electronics Design 915,71.94,"Average experience, could be better.","Parker, Hampton and Robertson"
+EL100916,Electronics Together 916,787.5,Satisfied with the purchase.,Steele-Moore
+EL100917,Electronics Improve 917,242.58,Fantastic product with ethical sourcing.,Coleman-Rogers
+EL100918,Electronics Responsibility 918,766.25,Satisfied with the purchase.,Leach Ltd
+EL100919,Electronics Interesting 919,858.71,Not worth the price.,"Nguyen, Hicks and Castro"
+EL100920,Electronics Whatever 920,599.23,Satisfied with the purchase.,Snyder Group
+EL100921,Electronics Develop 921,806.77,Perfect gift option!,Patterson Group
+EL100922,Electronics Positive 922,199.67,"Average experience, could be better.",Walker LLC
+EL100923,Electronics Though 923,425.83,Not worth the price.,Moyer Ltd
+EL100924,Electronics Pretty 924,181.86,Satisfied with the purchase.,Bailey-Thompson
+EL100925,Electronics Time 925,226.49,Good but overpriced.,Lindsey Inc
+EL100926,Electronics Visit 926,892.65,Good but overpriced.,"Johnson, Jones and Ford"
+EL100927,Electronics Ask 927,79.91,Satisfied with the purchase.,Fowler Ltd
+EL100928,Electronics Heavy 928,979.35,Satisfied with the purchase.,Cohen Inc
+EL100929,Electronics Wide 929,828.47,Good but overpriced.,"Diaz, Davis and Malone"
+EL100930,Electronics Throw 930,946.21,Perfect gift option!,Buck-Case
+EL100931,Electronics Focus 931,72.79,Fantastic product with ethical sourcing.,Bell Ltd
+EL100932,Electronics As 932,434.69,Not worth the price.,"Berry, Daugherty and Hernandez"
+EL100933,Electronics Line 933,541.06,Fantastic product with ethical sourcing.,Henry Inc
+EL100934,Electronics Hand 934,853.09,Fantastic product with ethical sourcing.,"Johnson, Hunter and Martinez"
+EL100935,Electronics Agreement 935,527.81,"Excellent product, highly recommend.",Ward-Bates
+EL100936,Electronics Little 936,338.3,Great quality and fast delivery!,Leonard-Harrington
+EL100937,Electronics Short 937,352.92,Satisfied with the purchase.,"Kaufman, Johnson and Hampton"
+EL100938,Electronics Evidence 938,940.44,Very durable and eco-friendly packaging.,"Jones, Campbell and Roberts"
+EL100939,Electronics Avoid 939,740.91,Very durable and eco-friendly packaging.,King Ltd
+EL100940,Electronics Section 940,603.2,Fantastic product with ethical sourcing.,"White, Jones and Hart"
+EL100941,Electronics Now 941,159.84,Perfect gift option!,White-Morrison
+EL100942,Electronics Seem 942,504.02,Good but overpriced.,"Bradford, Jones and Ruiz"
+EL100943,Electronics Take 943,527.99,"Average experience, could be better.",Curry and Sons
+EL100944,Electronics Room 944,738.59,Very durable and eco-friendly packaging.,Roberts Inc
+EL100945,Electronics Woman 945,32.11,Satisfied with the purchase.,Martinez-Finley
+EL100946,Electronics No 946,633.93,Not worth the price.,Davis Group
+EL100947,Electronics They 947,818.76,Perfect gift option!,"Hernandez, Goodwin and Whitaker"
+EL100948,Electronics Attack 948,631.98,Not worth the price.,"Wagner, Elliott and Bennett"
+EL100949,Electronics Later 949,322.48,Wouldn’t buy again.,"Mitchell, Barrett and Dudley"
+EL100950,Electronics Available 950,7.04,Wouldn’t buy again.,Coleman-Richardson
+EL100951,Electronics Group 951,995.33,"Average experience, could be better.",Dunn PLC
+EL100952,Electronics Data 952,148.92,Not worth the price.,Lopez Ltd
+EL100953,Electronics However 953,536.45,Perfect gift option!,"Perry, Pierce and Rodriguez"
+EL100954,Electronics Collection 954,295.16,Very durable and eco-friendly packaging.,Mcgee Group
+EL100955,Electronics Trial 955,49.94,"Excellent product, highly recommend.",Reed Ltd
+EL100956,Electronics Dinner 956,265.1,"Average experience, could be better.",Rodriguez and Sons
+EL100957,Electronics Memory 957,575.22,Satisfied with the purchase.,Moore-Parker
+EL100958,Electronics Lawyer 958,876.96,Perfect gift option!,Williams PLC
+EL100959,Electronics Model 959,935.43,Satisfied with the purchase.,Williams-Daniels
+EL100960,Electronics Such 960,316.64,Satisfied with the purchase.,Bowen Ltd
+EL100961,Electronics Surface 961,108.98,Wouldn’t buy again.,"Martin, Adams and Lewis"
+EL100962,Electronics Relate 962,282.18,Good but overpriced.,Golden-Russo
+EL100963,Electronics Station 963,498.1,Satisfied with the purchase.,"Willis, Cooper and Cole"
+EL100964,Electronics Local 964,908.27,Satisfied with the purchase.,"Davis, Hansen and Ochoa"
+EL100965,Electronics Hospital 965,168.47,Wouldn’t buy again.,"Williams, Sullivan and Adams"
+EL100966,Electronics Recognize 966,33.04,Good but overpriced.,Hanson Inc
+EL100967,Electronics Should 967,87.43,Good but overpriced.,Jackson LLC
+EL100968,Electronics Gas 968,278.36,Very durable and eco-friendly packaging.,"Shelton, Hughes and Wagner"
+EL100969,Electronics Training 969,996.06,Very durable and eco-friendly packaging.,"Jordan, Baker and Stone"
+EL100970,Electronics Soldier 970,633.69,Great quality and fast delivery!,Calderon and Sons
+EL100971,Electronics Family 971,637.98,Great quality and fast delivery!,Carroll LLC
+EL100972,Electronics Him 972,418.82,Satisfied with the purchase.,Burton PLC
+EL100973,Electronics May 973,720.11,Not worth the price.,Daniels-Mitchell
+EL100974,Electronics Go 974,217.09,"Excellent product, highly recommend.",Campos-Wilson
+EL100975,Electronics College 975,827.16,Good but overpriced.,Mccoy LLC
+EL100976,Electronics Early 976,115.76,Great quality and fast delivery!,Shepard-Smith
+EL100977,Electronics Place 977,684.23,"Average experience, could be better.",Knight-Cooper
+EL100978,Electronics They 978,580.69,"Average experience, could be better.","Marks, Lewis and Sanchez"
+EL100979,Electronics Significant 979,377.89,Not worth the price.,"Sheppard, Williams and Johnson"
+EL100980,Electronics Then 980,559.07,Great quality and fast delivery!,Lewis PLC
+EL100981,Electronics Rock 981,451.36,Perfect gift option!,Khan LLC
+EL100982,Electronics Apply 982,802.51,"Average experience, could be better.",Baird-Moore
+EL100983,Electronics Administration 983,285.65,Good but overpriced.,Griffith-Thompson
+EL100984,Electronics Help 984,558.4,Good but overpriced.,"Hancock, Rivera and Gardner"
+EL100985,Electronics What 985,886.23,Perfect gift option!,Porter Ltd
+EL100986,Electronics Happen 986,404.43,Great quality and fast delivery!,"Johnson, Delgado and Leblanc"
+EL100987,Electronics Oil 987,5.52,Fantastic product with ethical sourcing.,Higgins-Logan
+EL100988,Electronics Science 988,233.03,"Average experience, could be better.",Smith-Watkins
+EL100989,Electronics Natural 989,341.86,"Excellent product, highly recommend.",Espinoza Ltd
+EL100990,Electronics Decide 990,601.57,Great quality and fast delivery!,"Turner, Smith and Riley"
+EL100991,Electronics Movie 991,69.08,"Excellent product, highly recommend.","Martin, Parker and Schultz"
+EL100992,Electronics Out 992,746.14,"Excellent product, highly recommend.",White-Nelson
+EL100993,Electronics Main 993,794.67,Wouldn’t buy again.,"Graham, Johnson and Brady"
+EL100994,Electronics Product 994,421.01,Satisfied with the purchase.,Hughes-Glass
+EL100995,Electronics Interview 995,314.27,Satisfied with the purchase.,Gonzales Inc
+EL100996,Electronics Increase 996,959.07,Very durable and eco-friendly packaging.,Bright-Roberts
+EL100997,Electronics Affect 997,211.48,"Excellent product, highly recommend.",Jensen-Grant
+EL100998,Electronics Space 998,655.14,Wouldn’t buy again.,"Leach, Haley and Wright"
+EL100999,Electronics Face 999,310.75,Satisfied with the purchase.,Williams Group
+EL101000,Electronics Region 1000,278.32,Wouldn’t buy again.,Garrett PLC
+EL101001,Electronics Knowledge 1001,541.96,Satisfied with the purchase.,Wilkinson PLC
+EL101002,Electronics Sing 1002,405.77,Not worth the price.,Chapman-Benson
+EL101003,Electronics Provide 1003,767.23,Very durable and eco-friendly packaging.,Russell Ltd
+EL101004,Electronics Factor 1004,223.12,Perfect gift option!,"Munoz, Camacho and Morgan"
+EL101005,Electronics Put 1005,523.32,Fantastic product with ethical sourcing.,Wilson Inc
+EL101006,Electronics Kind 1006,82.6,"Average experience, could be better.","Burke, Parker and Richardson"
+EL101007,Electronics Least 1007,170.64,Perfect gift option!,Diaz Ltd
+EL101008,Electronics Carry 1008,550.42,Perfect gift option!,"Carey, Jacobs and Shelton"
+EL101009,Electronics Girl 1009,978.03,Not worth the price.,"Clark, Hall and Stout"
+EL101010,Electronics West 1010,653.69,Good but overpriced.,Alexander Group
+EL101011,Electronics Type 1011,246.74,"Excellent product, highly recommend.",Foster-Hood
+EL101012,Electronics Environment 1012,902.32,Satisfied with the purchase.,Griffin-Palmer
+EL101013,Electronics Evidence 1013,642.62,Wouldn’t buy again.,Johnson-Grant
+EL101014,Electronics Lead 1014,251.23,Great quality and fast delivery!,Villarreal LLC
+EL101015,Electronics Campaign 1015,14.94,Perfect gift option!,"Rodriguez, Hunter and Anderson"
+EL101016,Electronics Same 1016,876.32,Wouldn’t buy again.,Taylor LLC
+EL101017,Electronics Away 1017,486.22,Not worth the price.,"Williams, Shah and Armstrong"
+EL101018,Electronics Serve 1018,851.61,Not worth the price.,"Drake, Alvarado and Tyler"
+EL101019,Electronics Will 1019,127.26,Great quality and fast delivery!,"Hebert, Myers and Tucker"
+EL101020,Electronics Smile 1020,70.63,Very durable and eco-friendly packaging.,Bell LLC
+EL101021,Electronics Green 1021,882.54,"Excellent product, highly recommend.",Lowery Group
+EL101022,Electronics He 1022,999.21,Wouldn’t buy again.,"Garrett, Brooks and Scott"
+EL101023,Electronics Account 1023,174.03,Wouldn’t buy again.,Banks Group
+EL101024,Electronics Quality 1024,201.7,"Average experience, could be better.","Mccormick, King and Turner"
+EL101025,Electronics Poor 1025,311.76,Satisfied with the purchase.,Tucker-Munoz
+EL101026,Electronics Ten 1026,855.76,Not worth the price.,Lopez-Flores
+EL101027,Electronics Approach 1027,667.49,Great quality and fast delivery!,Henderson-Whitehead
+EL101028,Electronics Apply 1028,271.01,Wouldn’t buy again.,Green-Mcmahon
+EL101029,Electronics Material 1029,388.44,Wouldn’t buy again.,Conner Ltd
+EL101030,Electronics Figure 1030,464.97,Satisfied with the purchase.,Love-Spencer
+EL101031,Electronics Send 1031,877.57,"Excellent product, highly recommend.","Bishop, Lane and Taylor"
+EL101032,Electronics Itself 1032,131.28,Fantastic product with ethical sourcing.,"Ball, Martinez and Skinner"
+EL101033,Electronics By 1033,410.37,"Excellent product, highly recommend.",Brown PLC
+EL101034,Electronics Election 1034,40.66,Wouldn’t buy again.,Wagner-Peterson
+EL101035,Electronics Late 1035,353.69,Great quality and fast delivery!,"Eaton, Lopez and Coleman"
+EL101036,Electronics Read 1036,589.25,Satisfied with the purchase.,"Jones, Hunt and Hall"
+EL101037,Electronics Government 1037,345.47,Wouldn’t buy again.,"Hull, Jackson and Castro"
+EL101038,Electronics Lay 1038,224.01,Perfect gift option!,"Duarte, Cross and Lee"
+EL101039,Electronics Finish 1039,659.3,Fantastic product with ethical sourcing.,Moreno PLC
+EL101040,Electronics Reality 1040,390.09,Great quality and fast delivery!,Moss-Wallace
+EL101041,Electronics Yourself 1041,762.45,Very durable and eco-friendly packaging.,Rodgers-Bowman
+EL101042,Electronics Risk 1042,32.01,Not worth the price.,Carrillo-Gonzalez
+EL101043,Electronics Firm 1043,676.16,Great quality and fast delivery!,"Mcdonald, Park and Gonzalez"
+EL101044,Electronics Drive 1044,176.31,Not worth the price.,Williams-Jefferson
+EL101045,Electronics Election 1045,997.72,Great quality and fast delivery!,Gomez Group
+EL101046,Electronics General 1046,711.27,Great quality and fast delivery!,Woodward LLC
+EL101047,Electronics Improve 1047,561.56,Not worth the price.,"Mendez, Hall and Smith"
+EL101048,Electronics Staff 1048,310.7,Satisfied with the purchase.,Gallagher LLC
+EL101049,Electronics Price 1049,771.62,Satisfied with the purchase.,West Inc
+EL101050,Electronics Knowledge 1050,355.04,Wouldn’t buy again.,"Reynolds, Huang and Frye"
+EL101051,Electronics Know 1051,677.27,Good but overpriced.,Morales Ltd
+EL101052,Electronics Human 1052,876.85,Great quality and fast delivery!,Scott-Ortiz
+EL101053,Electronics Country 1053,73.51,Fantastic product with ethical sourcing.,"Knox, Rogers and Fischer"
+EL101054,Electronics Red 1054,659.19,Very durable and eco-friendly packaging.,"Ramirez, Elliott and Wilson"
+EL101055,Electronics Happy 1055,860.3,Great quality and fast delivery!,"Olsen, Patterson and Robertson"
+EL101056,Electronics Black 1056,921.69,"Excellent product, highly recommend.","Williams, Rivera and Thompson"
+EL101057,Electronics Ability 1057,437.58,Perfect gift option!,Mcdonald-Boyd
+EL101058,Electronics Her 1058,826.94,Fantastic product with ethical sourcing.,"Mendez, Green and Lynch"
+EL101059,Electronics Win 1059,874.32,Very durable and eco-friendly packaging.,"Morrison, Turner and Vargas"
+EL101060,Electronics Vote 1060,439.26,Perfect gift option!,Valencia Ltd
+EL101061,Electronics Air 1061,995.53,Good but overpriced.,Cruz and Sons
+EL101062,Electronics Air 1062,818.14,"Average experience, could be better.",Benson-Little
+EL101063,Electronics Draw 1063,499.98,Wouldn’t buy again.,"Nguyen, Nichols and Guerra"
+EL101064,Electronics Popular 1064,812.54,Very durable and eco-friendly packaging.,Marshall LLC
+EL101065,Electronics Get 1065,754.26,"Average experience, could be better.","Kelley, Chavez and Gill"
+EL101066,Electronics Rate 1066,529.93,Wouldn’t buy again.,"Harvey, Adams and Harrison"
+EL101067,Electronics None 1067,948.68,Very durable and eco-friendly packaging.,Harris-Blackwell
+EL101068,Electronics Person 1068,514.77,Fantastic product with ethical sourcing.,"Mcguire, Barker and Smith"
+EL101069,Electronics Option 1069,9.17,Great quality and fast delivery!,"Moore, Smith and Trujillo"
+EL101070,Electronics Talk 1070,606.09,"Excellent product, highly recommend.",Brewer and Sons
+EL101071,Electronics Popular 1071,458.85,"Average experience, could be better.",Duncan-Gardner
+EL101072,Electronics Report 1072,653.4,Great quality and fast delivery!,Bishop LLC
+EL101073,Electronics Surface 1073,357.95,Very durable and eco-friendly packaging.,Maynard PLC
+EL101074,Electronics Increase 1074,580.6,Good but overpriced.,"Gonzales, Miller and Wilson"
+EL101075,Electronics State 1075,464.03,"Excellent product, highly recommend.",Young LLC
+EL101076,Electronics Daughter 1076,89.71,Perfect gift option!,"Roach, Harris and Brooks"
+EL101077,Electronics Ten 1077,215.97,Fantastic product with ethical sourcing.,Tucker Inc
+EL101078,Electronics Color 1078,519.6,Good but overpriced.,Barnes-Johnson
+EL101079,Electronics Stand 1079,431.67,Very durable and eco-friendly packaging.,"Gallagher, Yoder and Smith"
+EL101080,Electronics Clear 1080,590.49,"Average experience, could be better.",Griffin Group
+EL101081,Electronics Report 1081,565.06,"Excellent product, highly recommend.",Harrington Ltd
+EL101082,Electronics Compare 1082,94.41,Good but overpriced.,Ramirez LLC
+EL101083,Electronics Local 1083,446.77,Perfect gift option!,Marshall Ltd
+EL101084,Electronics Feel 1084,594.08,Not worth the price.,Vaughn Group
+EL101085,Electronics Statement 1085,943.5,"Excellent product, highly recommend.",Jones-Harrison
+EL101086,Electronics Car 1086,899.5,"Excellent product, highly recommend.","Mitchell, Rivera and Morgan"
+EL101087,Electronics Other 1087,151.69,Perfect gift option!,Khan LLC
+EL101088,Electronics Cost 1088,237.86,Very durable and eco-friendly packaging.,Mcknight-Black
+EL101089,Electronics Local 1089,403.17,Good but overpriced.,"Crawford, Lopez and Martinez"
+EL101090,Electronics Order 1090,381.91,"Excellent product, highly recommend.",Gilbert-Estrada
+EL101091,Electronics Feeling 1091,777.78,Very durable and eco-friendly packaging.,Higgins-Mitchell
+EL101092,Electronics Information 1092,601.87,Fantastic product with ethical sourcing.,"Murray, Hernandez and Haney"
+EL101093,Electronics Million 1093,928.27,"Excellent product, highly recommend.",Dillon-Edwards
+EL101094,Electronics Center 1094,242.55,Great quality and fast delivery!,Strickland-Sanders
+EL101095,Electronics Yes 1095,223.94,Not worth the price.,"Perez, Schroeder and Erickson"
+EL101096,Electronics Billion 1096,557.98,Wouldn’t buy again.,Macias LLC
+EL101097,Electronics Who 1097,301.64,Great quality and fast delivery!,Clark LLC
+EL101098,Electronics Industry 1098,510.48,Very durable and eco-friendly packaging.,"Lynch, Powell and Francis"
+EL101099,Electronics Officer 1099,815.3,Not worth the price.,Price LLC
+EL101100,Electronics Within 1100,832.82,Good but overpriced.,Gates LLC
+EL101101,Electronics Sound 1101,425.54,Good but overpriced.,Hayes PLC
+EL101102,Electronics Form 1102,81.7,Satisfied with the purchase.,Russo Group
+EL101103,Electronics Respond 1103,240.4,Satisfied with the purchase.,"Mcdonald, Williams and Williams"
+EL101104,Electronics Contain 1104,141.2,"Average experience, could be better.",Harris and Sons
+EL101105,Electronics Blue 1105,842.5,Very durable and eco-friendly packaging.,"Jackson, Jacobson and Clark"
+EL101106,Electronics Million 1106,298.19,Fantastic product with ethical sourcing.,"Cole, Miller and Clark"
+EL101107,Electronics Pm 1107,605.44,"Average experience, could be better.",Hoffman and Sons
+EL101108,Electronics Life 1108,723.13,Not worth the price.,"Bonilla, Ramos and Rhodes"
+EL101109,Electronics Strong 1109,197.5,Very durable and eco-friendly packaging.,Holden-Kent
+EL101110,Electronics Will 1110,629.4,Very durable and eco-friendly packaging.,Hill and Sons
+EL101111,Electronics Next 1111,528.39,Not worth the price.,Hunt-Martinez
+EL101112,Electronics Successful 1112,392.02,Wouldn’t buy again.,Medina-Brown
+EL101113,Electronics Congress 1113,864.18,Perfect gift option!,Williams Ltd
+EL101114,Electronics Teacher 1114,148.43,Not worth the price.,Watkins LLC
+EL101115,Electronics Executive 1115,426.36,Satisfied with the purchase.,Williams-Chandler
+EL101116,Electronics Building 1116,266.71,Very durable and eco-friendly packaging.,Hurley PLC
+EL101117,Electronics Identify 1117,58.02,Satisfied with the purchase.,Bryant-Garcia
+EL101118,Electronics How 1118,594.67,Satisfied with the purchase.,Haynes-Higgins
+EL101119,Electronics Exactly 1119,644.0,"Average experience, could be better.",Cruz-Acevedo
+EL101120,Electronics Affect 1120,103.76,Wouldn’t buy again.,Nichols Inc
+EL101121,Electronics Own 1121,959.57,Good but overpriced.,"Hancock, Price and Ramos"
+EL101122,Electronics When 1122,921.01,Very durable and eco-friendly packaging.,Moore Group
+EL101123,Electronics I 1123,813.87,Great quality and fast delivery!,Kelly and Sons
+EL101124,Electronics Own 1124,120.22,Satisfied with the purchase.,"Dyer, Long and Wright"
+EL101125,Electronics Space 1125,487.31,Perfect gift option!,Sims LLC
+EL101126,Electronics Site 1126,167.85,"Excellent product, highly recommend.","Hart, Leach and Fisher"
+EL101127,Electronics Bag 1127,795.52,Good but overpriced.,Burgess-Elliott
+EL101128,Electronics Five 1128,446.51,Very durable and eco-friendly packaging.,"Lopez, Wright and Yates"
+EL101129,Electronics Almost 1129,570.86,"Average experience, could be better.","Snow, Booth and Williams"
+EL101130,Electronics Same 1130,35.29,Very durable and eco-friendly packaging.,Camacho-Hardy
+EL101131,Electronics Society 1131,725.81,"Excellent product, highly recommend.","Graves, Ortiz and Kelly"
+EL101132,Electronics Mr 1132,514.51,Wouldn’t buy again.,Diaz Ltd
+EL101133,Electronics Open 1133,222.06,Satisfied with the purchase.,"Schroeder, Morgan and Meyer"
+EL101134,Electronics Weight 1134,894.55,Great quality and fast delivery!,"Cunningham, Taylor and Parker"
+EL101135,Electronics Tree 1135,211.63,"Excellent product, highly recommend.","Davis, Sampson and Morales"
+EL101136,Electronics Prove 1136,16.86,Good but overpriced.,"Carter, Lopez and Mitchell"
+EL101137,Electronics Hour 1137,411.08,Perfect gift option!,Harvey Ltd
+EL101138,Electronics Work 1138,298.49,Good but overpriced.,"Morton, Clark and Poole"
+EL101139,Electronics Thus 1139,28.83,Perfect gift option!,"Barr, Miller and Sanchez"
+EL101140,Electronics Pull 1140,371.21,"Average experience, could be better.","Reynolds, Allen and Gates"
+EL101141,Electronics Follow 1141,108.03,Good but overpriced.,"Baker, Humphrey and Hernandez"
+EL101142,Electronics Sign 1142,336.98,Not worth the price.,Mckinney Ltd
+EL101143,Electronics Whether 1143,237.21,Fantastic product with ethical sourcing.,Morrow-Middleton
+EL101144,Electronics Difference 1144,749.99,"Excellent product, highly recommend.","Gonzalez, Murray and Dyer"
+EL101145,Electronics Tax 1145,659.26,Not worth the price.,"Andrade, Gomez and Lambert"
+EL101146,Electronics Because 1146,128.12,"Average experience, could be better.",Johnson and Sons
+EL101147,Electronics Add 1147,221.18,Perfect gift option!,Henderson Group
+EL101148,Electronics Cell 1148,460.56,Perfect gift option!,Gould Inc
+EL101149,Electronics Must 1149,759.35,"Excellent product, highly recommend.",Gallegos and Sons
+EL101150,Electronics Hand 1150,778.19,Satisfied with the purchase.,Roth Ltd
+EL101151,Electronics Attention 1151,245.52,Perfect gift option!,Doyle-Lee
+EL101152,Electronics Spend 1152,153.23,Not worth the price.,Bowers Inc
+EL101153,Electronics Guess 1153,133.35,"Average experience, could be better.",Munoz PLC
+EL101154,Electronics Data 1154,797.85,"Average experience, could be better.",Booth-Jones
+EL101155,Electronics Name 1155,443.4,Good but overpriced.,Savage PLC
+EL101156,Electronics Tax 1156,247.37,Perfect gift option!,Smith PLC
+EL101157,Electronics Important 1157,957.67,Good but overpriced.,Foster Inc
+EL101158,Electronics Natural 1158,206.83,"Average experience, could be better.",Huffman-Walker
+EL101159,Electronics Room 1159,84.19,Wouldn’t buy again.,"Dixon, Velez and Montes"
+EL101160,Electronics Your 1160,677.23,Great quality and fast delivery!,"Fuller, Brown and Park"
+EL101161,Electronics Teacher 1161,727.16,"Average experience, could be better.",Stevens Inc
+EL101162,Electronics Civil 1162,941.56,Very durable and eco-friendly packaging.,Howell-Wright
+EL101163,Electronics Century 1163,772.72,Not worth the price.,Hartman Ltd
+EL101164,Electronics Plan 1164,399.31,Very durable and eco-friendly packaging.,"Carter, Moreno and Martinez"
+EL101165,Electronics Open 1165,339.46,Perfect gift option!,"Jennings, Smith and White"
+EL101166,Electronics Machine 1166,424.93,Great quality and fast delivery!,Wells Group
+EL101167,Electronics Story 1167,741.13,Wouldn’t buy again.,"Hill, Miller and Wilson"
+EL101168,Electronics Short 1168,807.96,"Average experience, could be better.",Juarez Group
+EL101169,Electronics State 1169,337.27,"Excellent product, highly recommend.","Rodriguez, Nichols and Morrison"
+EL101170,Electronics Over 1170,769.84,Good but overpriced.,Mclean-Watkins
+EL101171,Electronics Base 1171,125.64,Satisfied with the purchase.,Jones-Butler
+EL101172,Electronics Support 1172,996.13,Fantastic product with ethical sourcing.,Mosley-Krueger
+EL101173,Electronics Key 1173,220.75,Fantastic product with ethical sourcing.,"Russell, Stone and Parker"
+EL101174,Electronics Marriage 1174,646.17,Very durable and eco-friendly packaging.,Fox-May
+EL101175,Electronics Develop 1175,694.66,Very durable and eco-friendly packaging.,"Oconnor, Powell and Chambers"
+EL101176,Electronics Go 1176,745.82,Satisfied with the purchase.,Davis PLC
+EL101177,Electronics Respond 1177,129.08,Wouldn’t buy again.,"Wright, Graham and Edwards"
+EL101178,Electronics Finally 1178,620.56,Good but overpriced.,Green Group
+EL101179,Electronics Rock 1179,312.09,Wouldn’t buy again.,"Freeman, Martinez and Adams"
+EL101180,Electronics Wait 1180,388.56,Good but overpriced.,"Clark, Peterson and Thompson"
+EL101181,Electronics Baby 1181,628.93,Very durable and eco-friendly packaging.,Neal PLC
+EL101182,Electronics Quite 1182,714.47,Fantastic product with ethical sourcing.,Thompson and Sons
+EL101183,Electronics Room 1183,55.0,"Average experience, could be better.","Mason, Jackson and Gray"
+EL101184,Electronics Cold 1184,549.42,"Excellent product, highly recommend.","Mcintyre, Young and Garcia"
+EL101185,Electronics When 1185,794.6,"Average experience, could be better.",Nielsen and Sons
+EL101186,Electronics Time 1186,277.97,Fantastic product with ethical sourcing.,Nelson-Cox
+EL101187,Electronics Understand 1187,770.1,Fantastic product with ethical sourcing.,"Kennedy, Floyd and Zavala"
+EL101188,Electronics Hotel 1188,211.28,Fantastic product with ethical sourcing.,Nguyen Group
+EL101189,Electronics True 1189,422.39,Fantastic product with ethical sourcing.,Duncan-Morrison
+EL101190,Electronics Eight 1190,572.98,Very durable and eco-friendly packaging.,Hanson-Mclean
+EL101191,Electronics Travel 1191,18.67,Good but overpriced.,Brown-Ali
+EL101192,Electronics Former 1192,954.17,Fantastic product with ethical sourcing.,Hamilton Ltd
+EL101193,Electronics Ago 1193,363.92,Not worth the price.,"Anthony, Owens and Sanchez"
+EL101194,Electronics Both 1194,878.2,Not worth the price.,Wade-Brown
+EL101195,Electronics Beat 1195,194.4,Not worth the price.,Warner and Sons
+EL101196,Electronics Hope 1196,227.82,"Average experience, could be better.",Nguyen-Mccarthy
+EL101197,Electronics Might 1197,960.03,Very durable and eco-friendly packaging.,Roberts and Sons
+EL101198,Electronics Wrong 1198,835.07,Not worth the price.,"Mcknight, Lewis and Keith"
+EL101199,Electronics Attorney 1199,854.36,Not worth the price.,"Hernandez, Wise and Johnson"
